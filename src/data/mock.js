@@ -174,7 +174,7 @@ export const news = [
   category: "Esportes",
   date: "hoje",
   views: 28450,
-  image: "https://images.unsplash.com/photo-1508098682722-e99c643e7f8b?auto=format&fit=crop&w=1400&q=60",
+  image: "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?auto=format&fit=crop&w=1400&q=60",
   content: [
     "O futebol brasileiro segue sendo uma das maiores potências do mundo em 2026.",
     "Os clubes estão investindo cada vez mais em categorias de base, revelando jovens talentos que rapidamente ganham destaque internacional.",
@@ -184,6 +184,7 @@ export const news = [
     "Torcedores acompanham cada vez mais pelo digital, com transmissões online e conteúdos exclusivos nas redes sociais.",
     "O futuro do futebol brasileiro aponta para crescimento financeiro e maior protagonismo global."
   ]
+
 },
 {
   slug: "nba-temporada-2026-destaques",
