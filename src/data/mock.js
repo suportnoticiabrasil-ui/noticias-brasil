@@ -17,61 +17,89 @@ export const trending = [
 
 export const news = [
   {
-    slug: "ia-e-produtos-no-dia-a-dia",
-    title: "IA no dia a dia: como a tecnologia está mudando produtos e serviços",
-    excerpt: "Entenda onde a IA já está presente e como ela afeta consumidores e empresas.",
-    category: "Tecnologia",
-    date: "hoje",
-    views: 12450,
-    image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=60",
-    content: [
-      "A inteligência artificial deixou de ser tema só de laboratório e passou a aparecer em apps, sites e serviços.",
-      "De recomendações a automações, o impacto é real — mas exige transparência e responsabilidade.",
-      "Neste artigo, você encontra exemplos práticos e pontos de atenção."
-    ]
-  },
+  slug: "inteligencia-artificial-impacto-real-no-dia-a-dia",
+  title: "Inteligência Artificial Já Está no Seu Dia a Dia — E Você Nem Percebeu",
+  excerpt: "De aplicativos de celular a sistemas bancários, a Inteligência Artificial já faz parte da rotina dos brasileiros. Veja como ela está transformando empresas e serviços.",
+  category: "Tecnologia",
+  date: "hoje",
+  views: 32780,
+  image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "A inteligência artificial deixou de ser tema restrito a laboratórios e centros de pesquisa. Hoje, ela está presente em aplicativos, sites, bancos, hospitais e até no atendimento ao cliente.",
+    "Sempre que você recebe uma recomendação personalizada em um streaming, usa o reconhecimento facial no celular ou conversa com um chatbot, há um sistema de IA trabalhando por trás.",
+    "Empresas estão utilizando algoritmos inteligentes para prever comportamentos de consumo, reduzir custos operacionais e melhorar a experiência do usuário.",
+    "No setor financeiro, a tecnologia ajuda a detectar fraudes em tempo real e analisar perfis de crédito com mais precisão.",
+    "Na área da saúde, sistemas baseados em IA auxiliam no diagnóstico de doenças e na análise de exames com alta taxa de assertividade.",
+    "No varejo digital, a automação permite estoques mais eficientes e campanhas publicitárias personalizadas.",
+    "Porém, o avanço da inteligência artificial também levanta questões importantes sobre privacidade, ética e transparência no uso de dados.",
+    "Especialistas alertam que a regulamentação e o uso responsável da tecnologia são fundamentais para evitar abusos e garantir benefícios sociais.",
+    "O impacto da IA é real e irreversível. Empresas que adotam soluções inteligentes tendem a ganhar vantagem competitiva em um mercado cada vez mais digital.",
+    "Mais do que tendência, a inteligência artificial se consolida como um dos pilares da nova economia global."
+  ]
+},
   {
-    slug: "economia-sinais-mercado",
-    title: "Economia: 5 sinais para acompanhar o mercado sem complicação",
-    excerpt: "Uma lista rápida do que realmente importa pra entender o cenário econômico.",
-    category: "Economia",
-    date: "ontem",
-    views: 8320,
-    image: "https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=1400&q=60",
-    content: [
-      "Inflação, juros, câmbio, emprego e atividade: esses cinco indicadores contam grande parte da história.",
-      "O segredo é olhar tendência, não um número isolado.",
-      "Com consistência, dá pra acompanhar sem estresse."
-    ]
-  },
-  {
-    slug: "esportes-dicas-finais-semana",
-    title: "Esportes: o que assistir no fim de semana — guia rápido",
-    excerpt: "Principais jogos e eventos esportivos pra você montar sua agenda.",
-    category: "Esportes",
-    date: "2 dias",
-    views: 5010,
-    image: "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=1400&q=60",
-    content: [
-      "Campeonatos nacionais e internacionais movimentam o fim de semana.",
-      "Veja uma seleção do que vale a pena ficar de olho.",
-      "Confira horários e plataformas oficiais."
-    ]
-  },
-  {
-    slug: "saude-habitos-simples",
-    title: "Saúde: hábitos simples que melhoram energia e foco",
-    excerpt: "Rotina, sono e alimentação: ajustes pequenos com resultado grande.",
-    category: "Saúde",
-    date: "3 dias",
-    views: 7421,
-    image: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1400&q=60",
-    content: [
-      "Consistência ganha de intensidade quando o assunto é saúde.",
-      "Sono, hidratação, movimento e pausas estratégicas fazem diferença.",
-      "Escolha 1 hábito por semana e evolua."
-    ]
-  },
+  slug: "economia-sinais-mercado",
+  title: "Economia: 5 Sinais Essenciais para Acompanhar o Mercado Sem Complicação",
+  excerpt: "Inflação, juros, câmbio, emprego e atividade econômica: entenda como esses indicadores impactam seu bolso e seus investimentos.",
+  category: "Economia",
+  date: "ontem",
+  views: 8320,
+  image: "https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Entender economia não precisa ser complicado. Existem cinco indicadores principais que ajudam qualquer pessoa a acompanhar o mercado de forma clara e objetiva.",
+    "Inflação é o primeiro ponto de atenção. Ela mede o aumento geral dos preços e impacta diretamente o poder de compra das famílias.",
+    "A taxa de juros influencia crédito, financiamentos e investimentos. Quando os juros sobem, o consumo tende a diminuir e a renda fixa se torna mais atrativa.",
+    "O câmbio mostra o valor da moeda frente ao dólar e outras moedas internacionais. Ele afeta preços de produtos importados, viagens e exportações.",
+    "Os dados de emprego indicam a saúde do mercado de trabalho. Quando o desemprego cai, o consumo costuma aumentar.",
+    "A atividade econômica, medida por indicadores como o PIB, revela se o país está crescendo ou desacelerando.",
+    "O segredo não é analisar apenas um número isolado, mas observar tendências ao longo do tempo.",
+    "Acompanhar esses cinco sinais regularmente ajuda investidores, empreendedores e consumidores a tomar decisões mais conscientes.",
+    "Com informação e consistência, é possível entender o cenário econômico sem estresse e sem depender de análises extremamente técnicas.",
+    "A economia impacta diretamente sua vida financeira. Quanto mais você entende os indicadores, mais preparado estará para proteger e fazer seu dinheiro crescer."
+  ]
+},
+ {
+  slug: "esportes-dicas-finais-semana",
+  title: "Esportes: O Que Assistir no Fim de Semana — Guia Rápido para Não Perder Nada",
+  excerpt: "Principais jogos e eventos esportivos para você montar sua agenda e aproveitar o melhor do esporte no fim de semana.",
+  category: "Esportes",
+  date: "2 dias",
+  views: 21000,
+  image: "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "O fim de semana promete fortes emoções para os fãs de esporte. Campeonatos nacionais e internacionais entram em fases decisivas, elevando a expectativa do público.",
+    "No futebol, os principais campeonatos europeus e o Brasileirão trazem confrontos importantes que podem alterar a tabela.",
+    "Para quem gosta de basquete, a NBA segue com jogos intensos e disputas acirradas por posição nos playoffs.",
+    "As categorias de base e os campeonatos sul-americanos também oferecem partidas interessantes para quem acompanha novos talentos.",
+    "No automobilismo, as etapas da Fórmula 1 e categorias regionais movimentam os fãs de velocidade.",
+    "Lutas e artes marciais também entram na programação, com eventos que costumam entregar grandes combates.",
+    "Se a sua preferência é tênis, os torneios internacionais continuam atraindo os melhores atletas do circuito.",
+    "Para não perder nada, o ideal é conferir os horários oficiais e as plataformas de transmissão autorizadas.",
+    "Organize sua agenda com antecedência e prepare-se para um fim de semana recheado de emoção, rivalidade e grandes performances.",
+    "Independentemente do seu esporte favorito, sempre há um evento imperdível esperando por você."
+  ]
+},
+ {
+  slug: "saude-habitos-simples",
+  title: "Saúde: Hábitos Simples Que Melhoram Energia e Foco no Dia a Dia",
+  excerpt: "Rotina equilibrada, sono de qualidade e alimentação estratégica: pequenos ajustes que geram grandes resultados.",
+  category: "Saúde",
+  date: "3 dias",
+  views: 7421,
+  image: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Manter a saúde em dia não exige mudanças radicais. Na maioria das vezes, pequenas ações consistentes geram resultados mais duradouros do que decisões extremas.",
+    "Consistência ganha de intensidade quando o assunto é bem-estar físico e mental. Criar uma rotina equilibrada é o primeiro passo para melhorar energia e foco.",
+    "O sono de qualidade é um dos pilares da saúde. Dormir bem regula hormônios, melhora a concentração e fortalece o sistema imunológico.",
+    "A hidratação adequada impacta diretamente no funcionamento do cérebro e na disposição ao longo do dia.",
+    "Movimento diário, mesmo que leve, como caminhadas curtas ou alongamentos, contribui para reduzir o estresse e aumentar a produtividade.",
+    "Pausas estratégicas durante o trabalho ajudam a manter o foco e evitam a fadiga mental.",
+    "A alimentação equilibrada, rica em nutrientes naturais, fornece energia estável e evita picos de cansaço.",
+    "Evitar excesso de açúcar e ultraprocessados melhora o desempenho físico e cognitivo.",
+    "Escolher um hábito por semana e evoluir gradualmente torna a mudança sustentável.",
+    "A verdadeira transformação acontece na soma de pequenas ações diárias. Quando feitas com regularidade, elas criam um impacto significativo na saúde e na qualidade de vida."
+  ]
+},
 
   {
     slug: "inteligencia-artificial-no-brasil-2026",
