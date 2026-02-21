@@ -169,7 +169,7 @@ export const news = [
 },
 {
   slug: "futebol-brasileiro-temporada-2026",
-  title: "Futebol Brasileiro em 2026: Novos Talentos e a Evolução dos Clubes",
+  title: "Futebol Brasileiro em 2026: Novos Talentos e a Evolução dos Clubes 2",
   excerpt: "A temporada 2026 promete revelar novos craques e consolidar a força do futebol brasileiro no cenário internacional.",
   category: "Esportes",
   date: "hoje",
@@ -276,4 +276,22 @@ export const news = [
     "Quem investe em capacitação digital aumenta suas chances de sucesso no novo cenário econômico."
   ]
 },
+{
+  slug: "habitos-saudaveis-para-2026-mais-energia-e-longevidade",
+  title: "Hábitos Saudáveis em 2026: Como Aumentar sua Energia e Melhorar a Qualidade de Vida",
+  excerpt: "Descubra práticas simples e eficazes para melhorar sua saúde física e mental e viver com mais disposição em 2026.",
+  category: "Saúde",
+  date: "7 dias atrás",
+  views: 85982,
+  image: "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Manter hábitos saudáveis é fundamental para garantir energia e bem-estar ao longo do dia.",
+    "A alimentação equilibrada continua sendo a base para uma vida saudável, priorizando alimentos naturais e reduzindo ultraprocessados.",
+    "A prática regular de atividade física ajuda na prevenção de doenças cardiovasculares e melhora a saúde mental.",
+    "Dormir bem é tão importante quanto se alimentar corretamente, pois o sono regula hormônios e fortalece o sistema imunológico.",
+    "A hidratação adequada influencia diretamente no funcionamento do organismo e na disposição diária.",
+    "Cuidar da saúde mental também é essencial, incluindo momentos de lazer, descanso e controle do estresse.",
+    "Pequenas mudanças na rotina podem gerar grandes impactos na qualidade de vida a longo prazo."
+  ]
+}
 ]
