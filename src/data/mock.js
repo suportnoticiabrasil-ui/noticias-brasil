@@ -167,5 +167,113 @@ export const news = [
     "Com planejamento adequado, sua primeira viagem internacional será inesquecível."
   ]
 },
+{
+  slug: "futebol-brasileiro-temporada-2026",
+  title: "Futebol Brasileiro em 2026: Novos Talentos e a Evolução dos Clubes",
+  excerpt: "A temporada 2026 promete revelar novos craques e consolidar a força do futebol brasileiro no cenário internacional.",
+  category: "Esportes",
+  date: "hoje",
+  views: 28450,
+  image: "https://images.unsplash.com/photo-1508098682722-e99c643e7f8b?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "O futebol brasileiro segue sendo uma das maiores potências do mundo em 2026.",
+    "Os clubes estão investindo cada vez mais em categorias de base, revelando jovens talentos que rapidamente ganham destaque internacional.",
+    "A modernização dos estádios e a profissionalização da gestão esportiva aumentaram o nível de competitividade.",
+    "O Brasileirão continua sendo uma das ligas mais equilibradas e emocionantes do planeta.",
+    "Além disso, o uso de tecnologia, como análise de desempenho e inteligência artificial, está transformando a forma como os clubes treinam e contratam jogadores.",
+    "Torcedores acompanham cada vez mais pelo digital, com transmissões online e conteúdos exclusivos nas redes sociais.",
+    "O futuro do futebol brasileiro aponta para crescimento financeiro e maior protagonismo global."
+  ]
+},
+{
+  slug: "nba-temporada-2026-destaques",
+  title: "NBA 2026: Os Principais Destaques da Temporada",
+  excerpt: "Veja os jogadores que estão dominando a NBA em 2026 e as equipes favoritas ao título.",
+  category: "Esportes",
+  date: "hoje",
+  views: 19870,
+  image: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "A temporada 2026 da NBA está marcada por jogos intensos e atuações históricas.",
+    "Novos talentos dividem espaço com estrelas consagradas, elevando o nível da competição.",
+    "Times que investiram pesado em elenco e tecnologia de treinamento colhem resultados positivos.",
+    "O basquete moderno se tornou mais rápido, dinâmico e focado em arremessos de três pontos.",
+    "A presença global da NBA cresce a cada ano, com milhões de fãs ao redor do mundo.",
+    "As finais prometem equilíbrio e emoção até o último segundo.",
+    "Especialistas apontam esta como uma das temporadas mais competitivas da última década."
+  ]
+},
+{
+  slug: "esports-crescimento-global-2026",
+  title: "eSports em 2026: O Crescimento Bilionário dos Esportes Eletrônicos",
+  excerpt: "Os esportes eletrônicos continuam crescendo e se consolidando como uma das maiores indústrias do entretenimento mundial.",
+  category: "Esportes",
+  date: "hoje",
+  views: 22310,
+  image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Os eSports atingiram um novo patamar em 2026, com audiências comparáveis a grandes eventos esportivos tradicionais.",
+    "Torneios internacionais oferecem premiações milionárias e atraem patrocinadores globais.",
+    "Jogadores profissionais são tratados como atletas de alto rendimento, com equipes técnicas e preparação especializada.",
+    "O Brasil se destaca como um dos principais mercados emergentes no cenário competitivo.",
+    "Plataformas de streaming impulsionam o alcance dos campeonatos para milhões de espectadores.",
+    "A profissionalização do setor trouxe mais investimento e oportunidades de carreira.",
+    "Os esportes eletrônicos não são mais tendência — são uma realidade consolidada no mercado esportivo."
+  ]
+},
 
+{
+  slug: "economia-brasileira-2026-perspectivas-crescimento",
+  title: "Economia Brasileira em 2026: Crescimento, Desafios e Oportunidades",
+  excerpt: "Veja como a economia brasileira está se comportando em 2026 e quais setores devem crescer nos próximos anos.",
+  category: "Economia",
+  date: "hoje",
+  views: 17640,
+  image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "A economia brasileira em 2026 apresenta sinais de recuperação após períodos de instabilidade global.",
+    "O crescimento do PIB vem sendo impulsionado pelo agronegócio, tecnologia e setor de energia renovável.",
+    "O mercado de trabalho mostra melhora gradual, com aumento na geração de empregos formais.",
+    "Investimentos estrangeiros voltaram a crescer, principalmente em infraestrutura e inovação.",
+    "A inflação segue sob controle, mas ainda exige atenção das autoridades econômicas.",
+    "Especialistas apontam que a digitalização das empresas será fator determinante para manter o crescimento sustentável.",
+    "Apesar dos desafios fiscais, o Brasil mantém potencial competitivo entre as maiores economias emergentes."
+  ]
+},
+{
+  slug: "investimentos-inteligentes-para-2026",
+  title: "Investimentos Inteligentes para 2026: Onde Aplicar Seu Dinheiro",
+  excerpt: "Conheça as principais opções de investimento para 2026 e saiba como diversificar sua carteira com segurança.",
+  category: "Economia",
+  date: "hoje",
+  views: 21380,
+  image: "https://images.unsplash.com/photo-1565514158740-064f34bd6a67?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Com a economia mais estável, 2026 traz novas oportunidades para investidores iniciantes e experientes.",
+    "A renda fixa continua sendo alternativa segura para quem busca previsibilidade.",
+    "A bolsa de valores oferece potencial de valorização no longo prazo, especialmente em setores como tecnologia e energia limpa.",
+    "Fundos imobiliários seguem atraindo investidores interessados em renda passiva.",
+    "Diversificação é a palavra-chave para reduzir riscos e aumentar as chances de retorno positivo.",
+    "Antes de investir, é importante definir objetivos financeiros e perfil de risco.",
+    "A educação financeira se tornou essencial para quem deseja construir patrimônio sustentável."
+  ]
+},
+{
+  slug: "empreendedorismo-digital-economia-2026",
+  title: "Empreendedorismo Digital em 2026: O Motor da Nova Economia",
+  excerpt: "Descubra como o empreendedorismo digital está impulsionando a economia e criando novas oportunidades de renda.",
+  category: "Economia",
+  date: "hoje",
+  views: 18950,
+  image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "O empreendedorismo digital se consolida como um dos principais motores da economia em 2026.",
+    "Pequenos negócios online ganham espaço através do e-commerce, marketing digital e produção de conteúdo.",
+    "Plataformas digitais permitem que empreendedores alcancem clientes em todo o mundo.",
+    "O trabalho remoto ampliou as possibilidades de geração de renda e reduziu barreiras geográficas.",
+    "Startups focadas em tecnologia financeira e inteligência artificial recebem grandes investimentos.",
+    "A economia criativa cresce com influenciadores, infoprodutores e desenvolvedores independentes.",
+    "Quem investe em capacitação digital aumenta suas chances de sucesso no novo cenário econômico."
+  ]
+},
 ]
