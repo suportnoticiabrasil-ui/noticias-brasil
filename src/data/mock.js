@@ -90,6 +90,82 @@ export const news = [
       "Especialistas alertam para a importância da ética e da proteção de dados dos usuários.",
       "A tendência é que até o final da década a Inteligência Artificial esteja presente em praticamente todos os setores da economia brasileira."
     ]
-  }
+  },
 
-];
+  {
+  slug: "viajar-pelo-mundo-destinos-imperdiveis-2026",
+  title: "Viajar pelo Mundo em 2026: Destinos Imperdíveis para sua Próxima Aventura",
+  excerpt: "Descubra os melhores destinos internacionais para viajar em 2026 e viver experiências inesquecíveis ao redor do planeta.",
+  category: "Viagem",
+  date: "hoje",
+  views: 18750,
+  image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Viajar pelo mundo é mais do que conhecer novos lugares — é mergulhar em culturas diferentes, experimentar sabores únicos e expandir sua visão sobre a vida.",
+    "Em 2026, destinos internacionais estão ainda mais preparados para receber turistas com experiências personalizadas, tecnologia integrada e turismo sustentável.",
+    "Paris continua sendo um dos destinos mais visitados, encantando viajantes com sua arquitetura histórica e monumentos icônicos como a Torre Eiffel.",
+    "Nova York se mantém vibrante e dinâmica, oferecendo cultura, entretenimento e uma energia única que atrai milhões de visitantes todos os anos.",
+    "Tóquio impressiona pela mistura entre tradição milenar e tecnologia futurista, criando uma experiência cultural incomparável.",
+    "Além desses destinos, países da América Latina e da Ásia estão crescendo no turismo internacional, oferecendo experiências autênticas e custos mais acessíveis.",
+    "Planejamento é fundamental: reserve passagens com antecedência, pesquise sobre a cultura local e considere contratar seguro viagem para maior tranquilidade.",
+    "Viajar é um investimento em experiências, conhecimento e crescimento pessoal. Em 2026, o mundo está mais conectado do que nunca — e cheio de oportunidades para explorar."
+   
+    ]
+  },
+
+{
+  slug: "destinos-baratos-para-viajar-em-2026",
+  title: "Destinos Baratos para Viajar em 2026: Conheça Lugares Incríveis Gastando Pouco",
+  excerpt: "Veja os melhores destinos econômicos para viajar em 2026 e aproveite experiências incríveis sem comprometer seu orçamento.",
+  category: "Viagem",
+  date: "hoje",
+  views: 12430,
+  image: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Viajar não precisa ser caro. Em 2026, vários destinos oferecem experiências incríveis com excelente custo-benefício.",
+    "Países da América do Sul, como Argentina e Chile, continuam atraindo brasileiros por conta da proximidade e preços acessíveis.",
+    "No Nordeste brasileiro, cidades como João Pessoa e Maceió oferecem praias paradisíacas com custos menores que destinos mais famosos.",
+    "Outra opção econômica é explorar cidades históricas no Brasil, que combinam cultura, gastronomia e hospedagens acessíveis.",
+    "Planejar com antecedência e viajar fora da alta temporada pode reduzir drasticamente os gastos.",
+    "Utilizar aplicativos de comparação de preços ajuda a encontrar passagens e hospedagens mais baratas.",
+    "Com organização e pesquisa, é possível viver uma grande aventura gastando pouco."
+  ]
+},
+{
+  slug: "melhores-destinos-romanticos-para-casal",
+  title: "Melhores Destinos Românticos para Casais em 2026",
+  excerpt: "Conheça os destinos mais românticos para viajar a dois e criar momentos inesquecíveis com quem você ama.",
+  category: "Viagem",
+  date: "hoje",
+  views: 15680,
+  image: "https://images.unsplash.com/photo-1493558103817-58b2924bce98?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Viajar a dois é uma das melhores formas de fortalecer laços e criar memórias inesquecíveis.",
+    "Gramado é um dos destinos mais procurados por casais no Brasil, especialmente no inverno.",
+    "Paris segue como símbolo mundial do romantismo, com passeios às margens do Rio Sena e jantares à luz de velas.",
+    "Fernando de Noronha encanta com praias paradisíacas e pôr do sol inesquecível.",
+    "Hotéis boutique e experiências personalizadas tornam a viagem ainda mais especial.",
+    "Em 2026, o turismo romântico cresce com pacotes exclusivos para casais.",
+    "Escolher o destino ideal depende do estilo do casal: praia, frio, aventura ou luxo."
+  ]
+},
+{
+  slug: "viagem-internacional-dicas-para-primeira-vez",
+  title: "Primeira Viagem Internacional: Guia Completo para Iniciantes",
+  excerpt: "Vai viajar para fora do país pela primeira vez? Veja dicas essenciais para evitar erros e aproveitar ao máximo.",
+  category: "Viagem",
+  date: "hoje",
+  views: 21340,
+  image: "https://images.unsplash.com/photo-1502920917128-1aa500764b54?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Fazer a primeira viagem internacional é emocionante, mas exige planejamento.",
+    "O primeiro passo é verificar passaporte e visto, se necessário.",
+    "Contratar seguro viagem é fundamental para evitar problemas inesperados.",
+    "Pesquise sobre a cultura local para evitar situações constrangedoras.",
+    "Organize seus documentos em formato digital e físico.",
+    "Chegue ao aeroporto com antecedência para evitar imprevistos.",
+    "Com planejamento adequado, sua primeira viagem internacional será inesquecível."
+  ]
+},
+
+]
