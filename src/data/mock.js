@@ -72,4 +72,24 @@ export const news = [
       "Escolha 1 hábito por semana e evolua."
     ]
   },
+
+  {
+    slug: "inteligencia-artificial-no-brasil-2026",
+    title: "Inteligência Artificial no Brasil: Como a tecnologia está transformando empresas em 2026",
+    excerpt: "A Inteligência Artificial está mudando o mercado brasileiro e criando novas oportunidades profissionais.",
+    category: "Tecnologia",
+    date: "hoje",
+    views: 15420,
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1400&q=60",
+    content: [
+      "A Inteligência Artificial (IA) deixou de ser apenas um conceito futurista e passou a fazer parte do cotidiano de empresas brasileiras.",
+      "Em 2026, ferramentas baseadas em IA já são usadas para atendimento automático, análise de dados e tomada de decisões estratégicas.",
+      "O setor financeiro é um dos que mais investem em tecnologia preditiva para reduzir riscos e melhorar resultados.",
+      "No varejo, algoritmos inteligentes ajudam a prever demanda e personalizar ofertas para consumidores.",
+      "Além das grandes empresas, startups brasileiras vêm crescendo ao utilizar IA para resolver problemas específicos do mercado.",
+      "Especialistas alertam para a importância da ética e da proteção de dados dos usuários.",
+      "A tendência é que até o final da década a Inteligência Artificial esteja presente em praticamente todos os setores da economia brasileira."
+    ]
+  }
+
 ];
