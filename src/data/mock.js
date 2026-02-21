@@ -221,7 +221,6 @@ export const news = [
     "Os esportes eletrônicos não são mais tendência — são uma realidade consolidada no mercado esportivo."
   ]
 },
-
 {
   slug: "economia-brasileira-2026-perspectivas-crescimento",
   title: "Economia Brasileira em 2026: Crescimento, Desafios e Oportunidades",
@@ -247,7 +246,7 @@ export const news = [
   category: "Economia",
   date: "hoje",
   views: 21380,
-  image: "https://images.unsplash.com/photo-1565514158740-064f34bd6a67?auto=format&fit=crop&w=1400&q=60",
+  image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1400&q=60",
   content: [
     "Com a economia mais estável, 2026 traz novas oportunidades para investidores iniciantes e experientes.",
     "A renda fixa continua sendo alternativa segura para quem busca previsibilidade.",
