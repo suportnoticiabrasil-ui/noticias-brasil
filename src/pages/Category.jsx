@@ -3,10 +3,24 @@ import NewsCard from "../components/NewsCard.jsx";
 import AdSlot from "../components/AdSlot.jsx";
 import { news } from "../data/mock.js";
 
+const normalize = (s) =>
+  (s || "")
+    .toString()
+    .normalize("NFD") // separa letras e acentos
+    .replace(/[\u0300-\u036f]/g, "") // remove acentos
+    .toLowerCase()
+    .trim();
+
 export default function Category() {
   const { slug } = useParams();
-  const title = slug?.charAt(0).toUpperCase() + slug?.slice(1);
-  const items = news.filter((n) => n.category.toLowerCase() === slug);
+
+  const items = news.filter((n) => normalize(n.category) === normalize(slug));
+
+  // título bonito (com acento se você quiser)
+  const title =
+    slug && slug.length
+      ? slug.charAt(0).toUpperCase() + slug.slice(1)
+      : "Categoria";
 
   return (
     <div className="container page">
@@ -14,6 +28,7 @@ export default function Category() {
         <h1>Categoria: {title}</h1>
         <p>Conteúdo organizado para facilitar leitura e navegação.</p>
 
+        {/* Se quiser tirar o placeholder do AdSense, comenta essa linha */}
         <AdSlot label="Topo da categoria — 728x90" height={90} />
 
         {items.length === 0 ? (
@@ -27,7 +42,9 @@ export default function Category() {
         )}
 
         <div style={{ marginTop: 16 }}>
-          <Link className="btn btn-ghost" to="/">Voltar</Link>
+          <Link className="btn btn-ghost" to="/">
+            Voltar
+          </Link>
         </div>
       </div>
     </div>
