@@ -36,7 +36,7 @@ export const news = [
 "A educação brasileira começa a incorporar IA como ferramenta de aprendizado personalizado, adaptando conteúdos ao ritmo de cada aluno.",
 "A tendência para os próximos anos é que a Inteligência Artificial deixe de ser diferencial e passe a ser requisito básico competitivo.",
 "Empresas que não se adaptarem correm risco de ficar para trás em um mercado cada vez mais automatizado e orientado por dados.",
-"Mais do que tecnologia, a IA representa uma mudança cultural profunda na forma de pensar negócios e inovação no Brasil."
+"Mais do que tecnologia, a IA representa uma mudança cultural profunda na forma de pensar negócios e inovação no Brasil.."
 ]
 },
   {
@@ -59,7 +59,7 @@ export const news = [
 "O ambiente econômico global também influencia diretamente o Brasil, especialmente nas exportações de commodities.",
 "Especialistas apontam que reformas estruturais são fundamentais para garantir sustentabilidade fiscal no longo prazo.",
 "A educação financeira da população cresce, ampliando acesso a investimentos e planejamento financeiro.",
-"O Brasil mantém forte potencial de crescimento se continuar combinando inovação, estabilidade macroeconômica e responsabilidade fiscal."
+"O Brasil mantém forte potencial de crescimento se continuar combinando inovação, estabilidade macroeconômica e responsabilidade fiscal.."
 ]
 },
  {
@@ -80,7 +80,7 @@ export const news = [
 "A tecnologia pode ser aliada, com aplicativos que ajudam a monitorar passos, calorias e qualidade do sono.",
 "A prevenção continua sendo o melhor caminho: consultas regulares e exames de rotina evitam problemas futuros.",
 "Pequenas mudanças diárias constroem grandes transformações ao longo dos anos.",
-"Em 2026, viver bem significa integrar tecnologia, consciência alimentar e equilíbrio emocional."
+"Em 2026, viver bem significa integrar tecnologia, consciência alimentar e equilíbrio emocional.."
 ]
 },
  {
@@ -101,7 +101,7 @@ export const news = [
     "A alimentação equilibrada, rica em nutrientes naturais, fornece energia estável e evita picos de cansaço.",
     "Evitar excesso de açúcar e ultraprocessados melhora o desempenho físico e cognitivo.",
     "Escolher um hábito por semana e evoluir gradualmente torna a mudança sustentável.",
-    "A verdadeira transformação acontece na soma de pequenas ações diárias. Quando feitas com regularidade, elas criam um impacto significativo na saúde e na qualidade de vida."
+    "A verdadeira transformação acontece na soma de pequenas ações diárias. Quando feitas com regularidade, elas criam um impacto significativo na saúde e na qualidade de vida.."
   ]
 },
 
@@ -120,7 +120,7 @@ export const news = [
       "No varejo, algoritmos inteligentes ajudam a prever demanda e personalizar ofertas para consumidores.",
       "Além das grandes empresas, startups brasileiras vêm crescendo ao utilizar IA para resolver problemas específicos do mercado.",
       "Especialistas alertam para a importância da ética e da proteção de dados dos usuários.",
-      "A tendência é que até o final da década a Inteligência Artificial esteja presente em praticamente todos os setores da economia brasileira."
+      "A tendência é que até o final da década a Inteligência Artificial esteja presente em praticamente todos os setores da economia brasileira.."
     ]
   },
 
@@ -146,7 +146,7 @@ export const news = [
 "O uso de cartões internacionais digitais facilita pagamentos e reduz taxas inesperadas.",
 "O turismo internacional não é apenas lazer, mas uma forma de ampliar visão cultural e crescimento pessoal.",
 "Viajar é investimento em experiências que enriquecem conhecimento e criam memórias duradouras.",
-"Em 2026, o mundo está mais acessível e preparado para receber viajantes com experiências cada vez mais personalizadas."
+"Em 2026, o mundo está mais acessível e preparado para receber viajantes com experiências cada vez mais personalizadas.."
 ]
   },
 
@@ -172,7 +172,7 @@ export const news = [
 "Alimentação em mercados locais e restaurantes regionais ajuda a economizar e ainda oferece experiência autêntica.",
 "Viajar barato não significa viajar com menos qualidade, mas sim tomar decisões inteligentes.",
 "Com organização financeira e pesquisa adequada, é possível explorar o mundo sem comprometer o orçamento.",
-"2026 apresenta diversas oportunidades para quem deseja conhecer novos destinos gastando menos."
+"2026 apresenta diversas oportunidades para quem deseja conhecer novos destinos gastando menos.."
 ]
 },
 {
@@ -197,7 +197,7 @@ export const news = [
 "Redes sociais impulsionam a busca por destinos visualmente marcantes.",
 "Mais do que o destino, o importante é a experiência compartilhada.",
 "Momentos simples, como assistir ao pôr do sol juntos, tornam-se inesquecíveis.",
-"Em 2026, o turismo romântico alia tecnologia, conforto e experiências únicas."
+"Em 2026, o turismo romântico alia tecnologia, conforto e experiências únicas.."
 ]
 },
 {
@@ -217,12 +217,12 @@ export const news = [
 "Organizar documentos físicos e digitais facilita deslocamentos.",
 "Chegar ao aeroporto com antecedência reduz estresse e imprevistos.",
 "O controle financeiro durante a viagem deve considerar câmbio e taxas internacionais.",
-"Aplicativos de tradução e mapas ajudam na comunicação e mobilidade.",
+"Aplicativos de tradução e mapas ajudam na comunicação e mobilidade..",
 "Conhecer regras de bagagem evita custos extras.",
 "É importante acompanhar orientações sanitárias e de segurança do destino escolhido.",
 "A experiência internacional amplia visão cultural e promove crescimento pessoal.",
 "A primeira viagem internacional exige organização, mas oferece aprendizado inesquecível.",
-"Com planejamento adequado, a experiência será tranquila e enriquecedora."
+"Com planejamento adequado, a experiência será tranquila e enriquecedora.."
 ]
 },
 {
@@ -247,7 +247,7 @@ export const news = [
 "Patrocinadores internacionais voltam a investir no futebol brasileiro.",
 "A exportação de jogadores para grandes ligas europeias mantém o Brasil como celeiro de talentos.",
 "O cenário aponta crescimento financeiro sustentável.",
-"Em 2026, o futebol brasileiro combina tradição histórica com inovação tecnológica."
+"Em 2026, o futebol brasileiro combina tradição histórica com inovação tecnológica.."
 ]
 },
 {
@@ -272,7 +272,7 @@ export const news = [
 "A tecnologia impacta inclusive decisões de arbitragem com revisões instantâneas.",
 "O espetáculo se expande além das quadras, com forte presença nas redes sociais.",
 "A NBA em 2026 é sinônimo de entretenimento esportivo global.",
-"O basquete se consolida como fenômeno mundial impulsionado por inovação e talento."
+"O basquete se consolida como fenômeno mundial impulsionado por inovação e talento.."
 ]
 },
 {
@@ -297,14 +297,14 @@ export const news = [
 "A profissionalização reduz preconceitos históricos contra jogos eletrônicos.",
 "A tecnologia torna as competições mais imersivas e interativas.",
 "eSports não são mais tendência: são realidade consolidada.",
-"2026 e marca uma fase de maturidade do setor."
+"2026 e marca uma fase de maturidade do setor.."
 ]
    
 },
 {
   slug: "economia-brasileira-2026-perspectivas-crescimento",
   title: "Economia Brasileira em 2026: Crescimento, Desafios e Oportunidades",
-  excerpt: "Veja como a economia brasileira está se comportando em 2026 e quais setores devem crescer nos próximos anos.",
+  excerpt: "Veja como a economia brasileira está se comportando em 2026 e quais setores devem crescer nos próximos anos..",
   category: "Economia",
   date: "hoje",
   views: 17640,
@@ -323,7 +323,7 @@ export const news = [
 "A sustentabilidade torna-se elemento estratégico, com expansão das energias renováveis e projetos ambientais.",
 "A economia brasileira em 2026 não está isenta de desafios, mas demonstra resiliência e capacidade de adaptação.",
 "O futuro dependerá da continuidade de reformas estruturais, investimentos em inovação e responsabilidade fiscal.",
-"Com equilíbrio, inovação e estratégia, o Brasil mantém potencial para consolidar-se como uma das principais economias emergentes do mundo."
+"Com equilíbrio, inovação e estratégia, o Brasil mantém potencial para consolidar-se como uma das principais economias emergentes do mundo.."
 ]
 },
 {
@@ -346,7 +346,7 @@ export const news = [
 "Investidores devem sempre considerar perfil de risco, objetivos financeiros e horizonte de tempo antes de aplicar recursos.",
 "Planejamento de longo prazo tende a gerar resultados mais consistentes do que decisões impulsivas baseadas em emoções de mercado.",
 "A tecnologia facilita o acompanhamento da carteira em tempo real, permitindo ajustes estratégicos rápidos.",
-"Em 2026, investir não é apenas uma opção — é uma necessidade para preservar poder de compra e ampliar oportunidades futuras."
+"Em 2026, investir não é apenas uma opção — é uma necessidade para preservar poder de compra e ampliar oportunidades futuras.."
 ]
 },
 {
@@ -369,7 +369,7 @@ export const news = [
 "O trabalho remoto expandiu possibilidades de renda e reduziu barreiras geográficas.",
 "Startups brasileiras focadas em tecnologia financeira e IA recebem investimentos expressivos.",
 "O sucesso no empreendedorismo digital exige planejamento, capacitação constante e adaptação às mudanças tecnológicas.",
-"Em 2026, empreender digitalmente significa inovação, escalabilidade e independência financeira."
+"Em 2026, empreender digitalmente significa inovação, escalabilidade e independência financeira.."
 ]
 },
 {
@@ -409,7 +409,7 @@ export const news = [
     "A diversidade cultural aparece nas telas com mais representatividade.",
     "Incentivos públicos e privados estimulam novas produções.",
     "O público nacional volta a prestigiar produções locais.",
-    "O cinema brasileiro consolida-se como setor criativo relevante."
+    "O cinema brasileiro consolida-se como setor criativo relevante.."
   ]
 },
 {
@@ -430,7 +430,7 @@ export const news = [
     "Empresas apostam em transmissões ao vivo e eventos exclusivos.",
     "Planos com anúncios tornaram-se alternativa mais acessível.",
     "A produção internacional cresce, ampliando diversidade cultural.",
-    "O streaming consolida-se como principal forma de entretenimento digital."
+    "O streaming consolida-se como principal forma de entretenimento digital.."
   ]
 }, 
 {
@@ -451,7 +451,7 @@ export const news = [
     "O investimento em roteiros complexos aumenta qualidade geral.",
     "As temporadas são lançadas em modelos híbridos.",
     "O público acompanha estreias com grande engajamento digital.",
-    "As séries consolidam-se como principal formato de entretenimento narrativo."
+    "As séries consolidam-se como principal formato de entretenimento narrativo.."
   ]
 },
 {
@@ -472,7 +472,7 @@ export const news = [
     "Produtores utilizam tecnologia para criar sons inovadores.",
     "Colaborações internacionais ampliam alcance global.",
     "O público participa ativamente na promoção de artistas.",
-    "O mercado musical torna-se mais democrático e dinâmico."
+    "O mercado musical torna-se mais democrático e dinâmico.."
   ]
 },
 {
@@ -493,7 +493,7 @@ export const news = [
     "A nostalgia retorna com força em reboots e remakes.",
     "O público valoriza autenticidade e representatividade.",
     "Marcas integram cultura pop às estratégias de marketing.",
-    "A cultura pop continua sendo reflexo direto da sociedade contemporânea."
+    "A cultura pop continua sendo reflexo direto da sociedade contemporânea em 2026."
   ]
 },
 {
@@ -512,7 +512,7 @@ export const news = [
     "O modelo híbrido entre TV e streaming fortalece audiência.",
     "A edição estratégica influencia narrativa e repercussão.",
     "Reality shows também geram oportunidades comerciais e publicitárias.",
-    "Em 2026, o formato continua em expansão global."
+    "Em 2026, o formato continua em expansão global em 2026."
   ]
 },
 {
@@ -531,7 +531,7 @@ export const news = [
     "Eventos internacionais de lançamento mobilizam milhões.",
     "Games independentes ganham visibilidade global.",
     "O Brasil se consolida como grande mercado consumidor.",
-    "2026 promete redefinir padrões da indústria."
+    "2026 promete redefinir padrões da indústria games."
   ]
 },
 {
@@ -545,7 +545,7 @@ export const news = [
   content: [
     "O Brasil volta a integrar grandes turnês mundiais.",
     "Festivais internacionais ampliam atrações.",
-    "A infraestrutura de eventos melhora a experiência do público.",
+    "E infraestrutura de eventos melhora a experiência do público.",
     "Ingressos digitais facilitam acesso.",
     "O setor movimenta economia local.",
     "Artistas destacam energia do público brasileiro.",
@@ -567,7 +567,7 @@ export const news = [
     "Plataformas diversificam formatos de monetização.",
     "Conteúdo autêntico gera maior engajamento.",
     "Marketing de influência movimenta bilhões.",
-    "O público busca transparência e conexão real.",
+    "Ao público busca transparência e conexão real.",
     "Novos criadores surgem diariamente.",
     "O mercado continua em expansão acelerada."
   ]
@@ -585,7 +585,7 @@ export const news = [
     "Streaming oferece liberdade de horário e escolha.",
     "Televisão tradicional ainda mantém grande alcance nacional.",
     "Publicidade adapta-se aos dois formatos.",
-    "Modelos híbridos ganham força.",
+    "Modelos híbridos ganham força e.",
     "Audiência fragmenta-se entre dispositivos.",
     "O consumidor decide quando e como assistir.",
     "O futuro aponta coexistência estratégica."
@@ -605,7 +605,7 @@ export const news = [
     "Produções diversificam representatividade cultural.",
     "Streaming influencia decisões de lançamento.",
     "Bilheterias globais mostram recuperação.",
-    "Roteiros mais complexos atraem público exigente.",
+    "Roteiros e mais complexos atraem público exigente.",
     "Filmes independentes ganham reconhecimento.",
     "Cinema global passa por transformação estrutural."
   ]
@@ -626,7 +626,7 @@ export const news = [
     "Publicidade em áudio se profissionaliza.",
     "Criadores diversificam formatos.",
     "O público valoriza conveniência e mobilidade.",
-    "O mercado de podcasts segue em expansão."
+    "O mercado de podcasts segue em maior expansão."
   ]
 },
 ];
