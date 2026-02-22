@@ -16,9 +16,8 @@ export default function Home() {
               <div>
                 <h1>Notícias Brasil — rápido, claro e responsivo</h1>
                 <p>
-                  Modelo pronto para conteúdo original, SEO básico e espaços de IA
-                  (Agradeço volte sempre ).
-                </p>
+  Notícias em tempo real com credibilidade, inovação e cobertura nacional.
+</p>
                 <div className="hero-cta">
                   <button className="btn" onClick={() => navigate("/pesquisa?q=")}>
                     Ver todas as notícias
