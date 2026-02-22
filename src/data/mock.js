@@ -297,7 +297,7 @@ export const news = [
 "A profissionalização reduz preconceitos históricos contra jogos eletrônicos.",
 "A tecnologia torna as competições mais imersivas e interativas.",
 "eSports não são mais tendência: são realidade consolidada.",
-"2026 marca uma fase de maturidade do setor."
+"2026 e marca uma fase de maturidade do setor."
 ]
    
 },
