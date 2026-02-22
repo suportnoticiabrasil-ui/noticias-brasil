@@ -626,7 +626,7 @@ export const news = [
     "Publicidade em áudio se profissionaliza.",
     "Criadores diversificam formatos.",
     "O público valoriza conveniência e mobilidade.",
-    "O mercado de podcasts segue em maior expansão."
+    "O mercado de podcasts segue em maior expansão.."
   ]
 },
 ];
