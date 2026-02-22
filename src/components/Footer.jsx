@@ -8,7 +8,9 @@ export default function Footer() {
       <div className="container footer-grid">
         <div>
           <h3 style={{ marginBottom: 8 }}>Notícias Brasil</h3>
-          <p>Portal de notícias com layout leve, responsivo e pronto para AdSense.</p>
+          <p>
+  Portal de notícias com design moderno, alta performance e foco total na experiência do leitor.
+</p>
           <p style={{ marginTop: 10, fontSize: 12, color: "#6b7280" }}>
             © {year} Notícias Brasil. Todos os direitos reservados.
           </p>
