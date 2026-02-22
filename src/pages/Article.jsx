@@ -1,7 +1,9 @@
 import { Link, useParams } from "react-router-dom";
 import { Clock, Eye } from "lucide-react";
+import { useEffect, useMemo, useState } from "react";
 import NewsCard from "../components/NewsCard.jsx";
 import { news } from "../data/mock.js";
+import { getViews, incrementViews } from "../utils/views.js";
 
 const fallbackImage =
   "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1400&q=80";
@@ -9,7 +11,19 @@ const fallbackImage =
 export default function Article() {
   const { slug } = useParams();
 
-  const article = news.find((n) => n.slug === slug);
+  const article = useMemo(() => news.find((n) => n.slug === slug), [slug]);
+
+  const [viewsNow, setViewsNow] = useState(() =>
+    article ? getViews(article.slug, article.views) : 0
+  );
+
+  useEffect(() => {
+    if (!article) return;
+
+    // incrementa 1 visualização quando abre o artigo
+    const next = incrementViews(article.slug, article.views);
+    setViewsNow(next);
+  }, [article]);
 
   if (!article) {
     return (
@@ -51,7 +65,6 @@ export default function Article() {
             }}
           />
 
-          {/* Overlay */}
           <div
             style={{
               position: "absolute",
@@ -92,7 +105,6 @@ export default function Article() {
                 </p>
               )}
 
-              {/* Meta */}
               <div
                 style={{
                   marginTop: 10,
@@ -107,10 +119,7 @@ export default function Article() {
                   <Clock size={14} /> {article.date}
                 </span>
                 <span style={{ display: "inline-flex", gap: 6, alignItems: "center" }}>
-                  <Eye size={14} />{" "}
-                  {typeof article.views === "number"
-                    ? article.views.toLocaleString("pt-BR")
-                    : "0"}
+                  <Eye size={14} /> {viewsNow.toLocaleString("pt-BR")}
                 </span>
               </div>
             </div>
@@ -141,13 +150,9 @@ export default function Article() {
               <Link className="btn btn-ghost" to="/">
                 Voltar
               </Link>
-              <Link className="btn" to={`/categoria/${article.category.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")}`}>
-                Ver mais de {article.category}
-              </Link>
             </div>
           </div>
 
-          {/* RELACIONADOS */}
           <div style={{ marginTop: 26 }}>
             <h2 style={{ marginBottom: 10 }}>Mais sobre {article.category}</h2>
             <div className="news-grid">
@@ -157,7 +162,6 @@ export default function Article() {
             </div>
           </div>
 
-          {/* VOCÊ PODE GOSTAR */}
           <div style={{ marginTop: 18 }}>
             <h2 style={{ marginBottom: 10 }}>Você também pode gostar</h2>
             <div className="news-grid">

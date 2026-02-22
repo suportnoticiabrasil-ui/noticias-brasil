@@ -1,9 +1,12 @@
 import { Link } from "react-router-dom";
 import { Clock, Eye } from "lucide-react";
+import { getViews } from "../utils/views.js";
 
 export default function NewsCard({ item }) {
   const fallbackImage =
     "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1400&q=80";
+
+  const viewsNow = getViews(item.slug, item.views);
 
   return (
     <article className="news">
@@ -43,10 +46,7 @@ export default function NewsCard({ item }) {
           </span>
 
           <span style={{ display: "inline-flex", alignItems: "center", gap: 6 }}>
-            <Eye size={14} />{" "}
-            {typeof item.views === "number"
-              ? item.views.toLocaleString("pt-BR")
-              : "0"}
+            <Eye size={14} /> {viewsNow.toLocaleString("pt-BR")}
           </span>
         </div>
       </div>

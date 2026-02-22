@@ -3,6 +3,7 @@ import { TrendingUp } from "lucide-react";
 import AdSlot from "../components/AdSlot.jsx";
 import NewsCard from "../components/NewsCard.jsx";
 import { news, trending } from "../data/mock.js";
+import { getViews } from "../utils/views.js";
 
 export default function Home() {
   const navigate = useNavigate();
@@ -14,8 +15,8 @@ export default function Home() {
   const entretenimento = news.filter((n) => n.category === "Entretenimento");
 
   const maisLidas = [...news]
-    .sort((a, b) => (b.views || 0) - (a.views || 0))
-    .slice(0, 6);
+  .sort((a, b) => getViews(b.slug, b.views) - getViews(a.slug, a.views))
+  .slice(0, 6);
 
   return (
     <>
@@ -140,12 +141,10 @@ export default function Home() {
                           {item.title}
                         </div>
                         <div style={{ fontSize: 12, color: "var(--muted)", marginTop: 4 }}>
-                          {item.category} •{" "}
-                          {typeof item.views === "number"
-                            ? item.views.toLocaleString("pt-BR")
-                            : "0"}{" "}
-                          views
-                        </div>
+  {item.category} •{" "}
+  {getViews(item.slug, item.views).toLocaleString("pt-BR")} views
+</div>
+                      
                       </div>
                     </button>
                   ))}
