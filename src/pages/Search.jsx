@@ -22,7 +22,7 @@ export default function Search() {
         <p>Resultado para: <strong>{q || "(todas)"}</strong></p>
         <div className="mt-6 relative overflow-hidden rounded-2xl shadow-xl">
   <img
-    src="/pix-banner.jpg"
+    src="https://logodownload.org/wp-content/uploads/2020/10/pix-banco-central-logo.png"
     alt="Novas regras do Pix"
     className="w-full h-[350px] object-cover bg-green-500 p-10"
   />
@@ -38,7 +38,6 @@ export default function Search() {
     </div>
   </div>
 </div>
-
         {results.length === 0 ? (
           <p>🧾 Novas Regras do PIX – Tudo o que Você Precisa Saber
 
