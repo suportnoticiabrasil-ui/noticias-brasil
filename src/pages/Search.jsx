@@ -20,20 +20,20 @@ export default function Search() {
       <div className="card">
         <h1>Pesquisa</h1>
         <p>Resultado para: <strong>{q || "(todas)"}</strong></p>
-        <div className="mt-6 relative overflow-hidden rounded-2xl shadow-xl">
+     <div className="mt-6 relative overflow-hidden rounded-2xl shadow-xl">
   <img
-    src="https://images.unsplash.com/photo-1621416894569-0f39ed31d247?auto=format&fit=crop&w=1400&q=80"
-    alt="Pagamento com Pix no celular"
+    src="https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?auto=format&fit=crop&w=1400&q=80"
+    alt="Pagamento digital no celular"
     className="w-full h-[350px] object-cover"
   />
 
   <div className="absolute inset-0 bg-gradient-to-r from-green-900/80 to-green-500/50 flex items-center">
     <div className="p-8 text-white">
       <h2 className="text-3xl font-bold">
-        🚨 Novas Regras do PIX 2025
+        💚 Novas Regras do PIX 2025
       </h2>
       <p className="mt-2 text-lg">
-        Veja o que mudou e como isso impacta seus pagamentos.
+        Entenda o que mudou e como isso impacta suas transferências.
       </p>
     </div>
   </div>
