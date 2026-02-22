@@ -22,9 +22,9 @@ export default function Search() {
         <p>Resultado para: <strong>{q || "(todas)"}</strong></p>
         <div className="mt-6 relative overflow-hidden rounded-2xl shadow-xl">
   <img
-    src="https://logodownload.org/wp-content/uploads/2020/10/pix-banco-central-logo.png"
-    alt="Novas regras do Pix"
-    className="w-full h-[350px] object-cover bg-green-500 p-10"
+    src="https://images.unsplash.com/photo-1621416894569-0f39ed31d247?auto=format&fit=crop&w=1400&q=80"
+    alt="Pagamento com Pix no celular"
+    className="w-full h-[350px] object-cover"
   />
 
   <div className="absolute inset-0 bg-gradient-to-r from-green-900/80 to-green-500/50 flex items-center">
