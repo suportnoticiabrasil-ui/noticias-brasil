@@ -43,7 +43,7 @@ function getHero(q) {
       subtitle:
         "Da produtividade ao atendimento, a IA já impacta ferramentas e serviços usados diariamente.",
       image:
-       "https://source.unsplash.com/1600x900/?artificial-intelligence,technology",
+      "https://images.unsplash.com/photo-1744640326166-433469d102f2?auto=format&fit=crop&fm=jpg&q=80&w=1400",
       longText: [
         "A inteligência artificial está cada vez mais presente em produtos e serviços: recomendações, atendimento automatizado, edição de imagem, ferramentas de escrita e análise de dados.",
         "O impacto mais visível é a velocidade. Processos que antes exigiam tempo agora ficam mais rápidos, mas também exigem atenção: confirmar informações, revisar textos e evitar clicar em links suspeitos.",
