@@ -20,6 +20,24 @@ export default function Search() {
       <div className="card">
         <h1>Pesquisa</h1>
         <p>Resultado para: <strong>{q || "(todas)"}</strong></p>
+        <div className="mt-6 relative overflow-hidden rounded-2xl shadow-xl">
+  <img
+    src="https://images.unsplash.com/photo-1621416894569-0f39ed31d247?auto=format&fit=crop&w=1400&q=80"
+    alt="Novas regras do Pix"
+    className="w-full h-[350px] object-cover"
+  />
+
+  <div className="absolute inset-0 bg-gradient-to-r from-black/70 to-black/30 flex items-center">
+    <div className="p-8 text-white">
+      <h2 className="text-3xl font-bold">
+        🚨 Novas Regras do PIX 2025
+      </h2>
+      <p className="mt-2 text-lg">
+        Veja o que mudou e como isso afeta suas transferências.
+      </p>
+    </div>
+  </div>
+</div>
 
         {results.length === 0 ? (
           <p>🧾 Novas Regras do PIX – Tudo o que Você Precisa Saber
@@ -30,7 +48,7 @@ Em 2025, o Banco Central implementou um conjunto de novas regras e mudanças par
 
 A seguir, explicamos em detalhes o que muda e como isso pode afetar você:
 
-💡 1. Mais segurança nas transações
+ 1. Mais segurança nas transações
 
 Uma das principais preocupações do BC é reduzir fraudes e golpes envolvendo PIX. As novas regras incluem:
 
@@ -42,17 +60,17 @@ Uma das principais preocupações do BC é reduzir fraudes e golpes envolvendo P
 
 Essas medidas fortalecem a proteção de quem usa o PIX diariamente e diminuem riscos de golpes comuns.
 
-💼 2. PIX para empresas e marketplaces
+ 2. PIX para empresas e marketplaces
 
 Antes, o PIX era usado principalmente para transferências entre pessoas físicas e pagamentos simples. Na atualização de 2025:
 
-✅ Empresas podem integrar PIX com contas garantidas, permitindo que o valor fique reservado até a confirmação do serviço ou produto entregue — útil para e-commerce, marketplaces e serviços por demanda;
+ Empresas podem integrar PIX com contas garantidas, permitindo que o valor fique reservado até a confirmação do serviço ou produto entregue — útil para e-commerce, marketplaces e serviços por demanda;
 
-✅ PIX parcelado e com prazo: agora empresas podem oferecer parcelamentos via PIX, com definição de juros ou prazos autorizados pelo Banco Central;
+ PIX parcelado e com prazo: agora empresas podem oferecer parcelamentos via PIX, com definição de juros ou prazos autorizados pelo Banco Central;
 
-✅ Mais transparência nas cobranças: todas as transações PIX entre empresas terão campos obrigatórios de identificação de produto/serviço, evitando disputas de pagamento ou devoluções indevidas.
+ Mais transparência nas cobranças: todas as transações PIX entre empresas terão campos obrigatórios de identificação de produto/serviço, evitando disputas de pagamento ou devoluções indevidas.
 
-💵 3. Limites e autorizações
+3. Limites e autorizações
 
 O Banco Central manteve o PIX gratuito para pessoas físicas, mas reforçou regras sobre limites:
 
@@ -76,7 +94,7 @@ O PIX continua expandindo funções para facilitar compras no varejo, restaurant
 
 Essas evoluções tornam o PIX mais competitivo frente a cartões, carteiras digitais e boletos.
 
-📊 5. Transparência para o usuário
+5. Transparência para o usuário
 
 Outra mudança importante é a obrigação de instituições financeiras fornecerem relatórios de uso do PIX com:
 
@@ -99,7 +117,7 @@ O PIX agora possui regras mais claras sobre devoluções:
 
 Isso traz mais confiança ao usar PIX em compras, serviços e pagamentos eletrônicos.
 
-📌 7. Compromisso com inovação
+ 7. Compromisso com inovação
 
 O PIX segue em constante evolução. O Banco Central tem incentivado o uso de novas tecnologias como:
 
