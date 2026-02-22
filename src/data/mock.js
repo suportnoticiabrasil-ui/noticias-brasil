@@ -24,18 +24,20 @@ export const news = [
   date: "hoje",
   views: 32780,
   image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1400&q=60",
-  content: [
-    "A inteligência artificial deixou de ser tema restrito a laboratórios e centros de pesquisa. Hoje, ela está presente em aplicativos, sites, bancos, hospitais e até no atendimento ao cliente.",
-    "Sempre que você recebe uma recomendação personalizada em um streaming, usa o reconhecimento facial no celular ou conversa com um chatbot, há um sistema de IA trabalhando por trás.",
-    "Empresas estão utilizando algoritmos inteligentes para prever comportamentos de consumo, reduzir custos operacionais e melhorar a experiência do usuário.",
-    "No setor financeiro, a tecnologia ajuda a detectar fraudes em tempo real e analisar perfis de crédito com mais precisão.",
-    "Na área da saúde, sistemas baseados em IA auxiliam no diagnóstico de doenças e na análise de exames com alta taxa de assertividade.",
-    "No varejo digital, a automação permite estoques mais eficientes e campanhas publicitárias personalizadas.",
-    "Porém, o avanço da inteligência artificial também levanta questões importantes sobre privacidade, ética e transparência no uso de dados.",
-    "Especialistas alertam que a regulamentação e o uso responsável da tecnologia são fundamentais para evitar abusos e garantir benefícios sociais.",
-    "O impacto da IA é real e irreversível. Empresas que adotam soluções inteligentes tendem a ganhar vantagem competitiva em um mercado cada vez mais digital.",
-    "Mais do que tendência, a inteligência artificial se consolida como um dos pilares da nova economia global."
-  ]
+ content: [
+"A Inteligência Artificial (IA) deixou de ser apenas um conceito futurista para se tornar parte essencial da realidade das empresas brasileiras em 2026. O que antes era visto como inovação distante, hoje está integrado a processos estratégicos, atendimento ao cliente, análises financeiras e decisões operacionais.",
+"No Brasil, o crescimento da digitalização acelerou após a pandemia, e isso abriu espaço para soluções baseadas em dados. Empresas que antes dependiam exclusivamente de decisões humanas agora combinam inteligência humana com algoritmos avançados para otimizar resultados.",
+"O setor financeiro é um dos principais exemplos dessa transformação. Bancos utilizam modelos preditivos para identificar riscos de crédito, detectar fraudes em tempo real e personalizar ofertas de produtos financeiros. Isso aumenta a segurança e melhora a experiência do consumidor.",
+"No varejo digital, a IA permite recomendações personalizadas com base no comportamento do usuário. Plataformas de e-commerce utilizam aprendizado de máquina para sugerir produtos com alta probabilidade de compra, aumentando conversões e reduzindo estoques parados.",
+"O agronegócio brasileiro também está se modernizando com sensores inteligentes, drones e análise preditiva para prever clima, produtividade e qualidade do solo. Essa combinação de tecnologia e campo coloca o Brasil em posição estratégica global.",
+"Na área da saúde, sistemas de IA auxiliam médicos na interpretação de exames, na triagem de pacientes e até na detecção precoce de doenças. Isso não substitui profissionais, mas aumenta eficiência e precisão.",
+"O mercado de trabalho também está mudando. Profissões ligadas à análise de dados, ciência de dados, engenharia de prompt e automação estão crescendo rapidamente.",
+"Por outro lado, cresce o debate sobre ética e responsabilidade. A coleta de dados exige transparência e respeito à LGPD (Lei Geral de Proteção de Dados).",
+"A educação brasileira começa a incorporar IA como ferramenta de aprendizado personalizado, adaptando conteúdos ao ritmo de cada aluno.",
+"A tendência para os próximos anos é que a Inteligência Artificial deixe de ser diferencial e passe a ser requisito básico competitivo.",
+"Empresas que não se adaptarem correm risco de ficar para trás em um mercado cada vez mais automatizado e orientado por dados.",
+"Mais do que tecnologia, a IA representa uma mudança cultural profunda na forma de pensar negócios e inovação no Brasil."
+]
 },
   {
   slug: "economia-sinais-mercado",
@@ -46,17 +48,19 @@ export const news = [
   views: 8320,
   image: "https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=1400&q=60",
   content: [
-    "Entender economia não precisa ser complicado. Existem cinco indicadores principais que ajudam qualquer pessoa a acompanhar o mercado de forma clara e objetiva.",
-    "Inflação é o primeiro ponto de atenção. Ela mede o aumento geral dos preços e impacta diretamente o poder de compra das famílias.",
-    "A taxa de juros influencia crédito, financiamentos e investimentos. Quando os juros sobem, o consumo tende a diminuir e a renda fixa se torna mais atrativa.",
-    "O câmbio mostra o valor da moeda frente ao dólar e outras moedas internacionais. Ele afeta preços de produtos importados, viagens e exportações.",
-    "Os dados de emprego indicam a saúde do mercado de trabalho. Quando o desemprego cai, o consumo costuma aumentar.",
-    "A atividade econômica, medida por indicadores como o PIB, revela se o país está crescendo ou desacelerando.",
-    "O segredo não é analisar apenas um número isolado, mas observar tendências ao longo do tempo.",
-    "Acompanhar esses cinco sinais regularmente ajuda investidores, empreendedores e consumidores a tomar decisões mais conscientes.",
-    "Com informação e consistência, é possível entender o cenário econômico sem estresse e sem depender de análises extremamente técnicas.",
-    "A economia impacta diretamente sua vida financeira. Quanto mais você entende os indicadores, mais preparado estará para proteger e fazer seu dinheiro crescer."
-  ]
+"A economia brasileira em 2026 apresenta sinais consistentes de recuperação, após um período marcado por instabilidade global e desafios fiscais internos.",
+"O crescimento do PIB tem sido impulsionado principalmente pelo agronegócio, tecnologia e energias renováveis, setores que receberam investimentos estratégicos nos últimos anos.",
+"O mercado de trabalho mostra melhora gradual, com aumento na formalização e crescimento do empreendedorismo digital.",
+"A inflação permanece relativamente controlada, embora fatores externos como variações no dólar ainda impactem preços internos.",
+"O setor de tecnologia tornou-se um dos principais motores do crescimento, com startups brasileiras atraindo capital estrangeiro significativo.",
+"O avanço da digitalização permitiu aumento de produtividade em pequenas e médias empresas.",
+"Investimentos em infraestrutura seguem como prioridade, melhorando logística e competitividade internacional.",
+"A política monetária busca equilíbrio entre crescimento e controle inflacionário.",
+"O ambiente econômico global também influencia diretamente o Brasil, especialmente nas exportações de commodities.",
+"Especialistas apontam que reformas estruturais são fundamentais para garantir sustentabilidade fiscal no longo prazo.",
+"A educação financeira da população cresce, ampliando acesso a investimentos e planejamento financeiro.",
+"O Brasil mantém forte potencial de crescimento se continuar combinando inovação, estabilidade macroeconômica e responsabilidade fiscal."
+]
 },
  {
   slug: "esportes-dicas-finais-semana",
@@ -67,17 +71,17 @@ export const news = [
   views: 21000,
   image: "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=1400&q=60",
   content: [
-    "O fim de semana promete fortes emoções para os fãs de esporte. Campeonatos nacionais e internacionais entram em fases decisivas, elevando a expectativa do público.",
-    "No futebol, os principais campeonatos europeus e o Brasileirão trazem confrontos importantes que podem alterar a tabela.",
-    "Para quem gosta de basquete, a NBA segue com jogos intensos e disputas acirradas por posição nos playoffs.",
-    "As categorias de base e os campeonatos sul-americanos também oferecem partidas interessantes para quem acompanha novos talentos.",
-    "No automobilismo, as etapas da Fórmula 1 e categorias regionais movimentam os fãs de velocidade.",
-    "Lutas e artes marciais também entram na programação, com eventos que costumam entregar grandes combates.",
-    "Se a sua preferência é tênis, os torneios internacionais continuam atraindo os melhores atletas do circuito.",
-    "Para não perder nada, o ideal é conferir os horários oficiais e as plataformas de transmissão autorizadas.",
-    "Organize sua agenda com antecedência e prepare-se para um fim de semana recheado de emoção, rivalidade e grandes performances.",
-    "Independentemente do seu esporte favorito, sempre há um evento imperdível esperando por você."
-  ]
+"Manter hábitos saudáveis em 2026 vai muito além da estética. Trata-se de qualidade de vida, energia e longevidade.",
+"A alimentação equilibrada continua sendo a base para saúde sustentável. Alimentos naturais, ricos em fibras, vitaminas e proteínas ajudam no funcionamento do organismo.",
+"O sono de qualidade é um dos fatores mais negligenciados. Dormir bem regula hormônios e melhora desempenho cognitivo.",
+"A prática regular de exercícios físicos reduz risco de doenças cardiovasculares e melhora o humor.",
+"Saúde mental também exige atenção. Redução de estresse, pausas estratégicas e momentos de lazer são essenciais.",
+"A hidratação adequada impacta diretamente no desempenho físico e mental.",
+"A tecnologia pode ser aliada, com aplicativos que ajudam a monitorar passos, calorias e qualidade do sono.",
+"A prevenção continua sendo o melhor caminho: consultas regulares e exames de rotina evitam problemas futuros.",
+"Pequenas mudanças diárias constroem grandes transformações ao longo dos anos.",
+"Em 2026, viver bem significa integrar tecnologia, consciência alimentar e equilíbrio emocional."
+]
 },
  {
   slug: "saúde-habitos-simples",
@@ -128,17 +132,22 @@ export const news = [
   date: "hoje",
   views: 18750,
   image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1400&q=60",
-  content: [
-    "Viajar pelo mundo é mais do que conhecer novos lugares — é mergulhar em culturas diferentes, experimentar sabores únicos e expandir sua visão sobre a vida.",
-    "Em 2026, destinos internacionais estão ainda mais preparados para receber turistas com experiências personalizadas, tecnologia integrada e turismo sustentável.",
-    "Paris continua sendo um dos destinos mais visitados, encantando viajantes com sua arquitetura histórica e monumentos icônicos como a Torre Eiffel.",
-    "Nova York se mantém vibrante e dinâmica, oferecendo cultura, entretenimento e uma energia única que atrai milhões de visitantes todos os anos.",
-    "Tóquio impressiona pela mistura entre tradição milenar e tecnologia futurista, criando uma experiência cultural incomparável.",
-    "Além desses destinos, países da América Latina e da Ásia estão crescendo no turismo internacional, oferecendo experiências autênticas e custos mais acessíveis.",
-    "Planejamento é fundamental: reserve passagens com antecedência, pesquise sobre a cultura local e considere contratar seguro viagem para maior tranquilidade.",
-    "Viajar é um investimento em experiências, conhecimento e crescimento pessoal. Em 2026, o mundo está mais conectado do que nunca — e cheio de oportunidades para explorar."
-   
-    ]
+ content: [
+"Viajar pelo mundo em 2026 se tornou mais acessível graças à tecnologia, novas rotas aéreas e maior competitividade entre companhias internacionais.",
+"O turismo global está cada vez mais conectado digitalmente, permitindo planejamento completo através de aplicativos e plataformas especializadas.",
+"Destinos tradicionais como Paris, Nova York e Tóquio continuam liderando o ranking de preferência entre turistas brasileiros.",
+"Paris permanece símbolo cultural, com museus, gastronomia refinada e arquitetura histórica que encanta visitantes de todas as idades.",
+"Nova York destaca-se pela diversidade cultural, entretenimento constante e experiências únicas que vão de Broadway a parques icônicos.",
+"Tóquio impressiona por unir tradição milenar e tecnologia avançada, criando um contraste fascinante para viajantes.",
+"Além dos destinos clássicos, cidades menos exploradas vêm ganhando destaque por oferecer experiências autênticas e preços mais competitivos.",
+"Viajar em 2026 também envolve preocupação com sustentabilidade, com turistas valorizando empresas responsáveis e turismo ecológico.",
+"O planejamento financeiro é essencial. Reservar passagens antecipadamente e acompanhar promoções reduz significativamente os custos.",
+"O seguro viagem tornou-se praticamente obrigatório para quem busca tranquilidade e proteção contra imprevistos.",
+"O uso de cartões internacionais digitais facilita pagamentos e reduz taxas inesperadas.",
+"O turismo internacional não é apenas lazer, mas uma forma de ampliar visão cultural e crescimento pessoal.",
+"Viajar é investimento em experiências que enriquecem conhecimento e criam memórias duradouras.",
+"Em 2026, o mundo está mais acessível e preparado para receber viajantes com experiências cada vez mais personalizadas."
+]
   },
 
 {
@@ -149,15 +158,22 @@ export const news = [
   date: "hoje",
   views: 12430,
   image: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&w=1400&q=60",
-  content: [
-    "Viajar não precisa ser caro. Em 2026, vários destinos oferecem experiências incríveis com excelente custo-benefício.",
-    "Países da América do Sul, como Argentina e Chile, continuam atraindo brasileiros por conta da proximidade e preços acessíveis.",
-    "No Nordeste brasileiro, cidades como João Pessoa e Maceió oferecem praias paradisíacas com custos menores que destinos mais famosos.",
-    "Outra opção econômica é explorar cidades históricas no Brasil, que combinam cultura, gastronomia e hospedagens acessíveis.",
-    "Planejar com antecedência e viajar fora da alta temporada pode reduzir drasticamente os gastos.",
-    "Utilizar aplicativos de comparação de preços ajuda a encontrar passagens e hospedagens mais baratas.",
-    "Com organização e pesquisa, é possível viver uma grande aventura gastando pouco."
-  ]
+ content: [
+"Viajar gastando pouco é totalmente possível em 2026 com planejamento e escolha estratégica de destinos.",
+"A América do Sul oferece excelente custo-benefício para brasileiros devido à proximidade e menor variação cambial.",
+"Argentina continua sendo um dos destinos mais procurados, especialmente para quem busca gastronomia e cultura urbana.",
+"Chile atrai turistas com paisagens naturais incríveis e preços competitivos fora da alta temporada.",
+"No Brasil, cidades do Nordeste como João Pessoa e Maceió oferecem praias paradisíacas com custos menores que destinos internacionais.",
+"O interior do Brasil também reserva cidades históricas com hospedagens acessíveis e rica experiência cultural.",
+"Escolher datas fora da alta temporada reduz drasticamente preços de passagens e hotéis.",
+"O uso de comparadores de preço online ajuda a encontrar promoções reais e evitar taxas abusivas.",
+"Optar por hospedagens alternativas como hostels e aluguel por temporada reduz gastos com acomodação.",
+"Transporte público e planejamento de roteiros evitam gastos desnecessários.",
+"Alimentação em mercados locais e restaurantes regionais ajuda a economizar e ainda oferece experiência autêntica.",
+"Viajar barato não significa viajar com menos qualidade, mas sim tomar decisões inteligentes.",
+"Com organização financeira e pesquisa adequada, é possível explorar o mundo sem comprometer o orçamento.",
+"2026 apresenta diversas oportunidades para quem deseja conhecer novos destinos gastando menos."
+]
 },
 {
   slug: "melhores-destinos-romanticos-para-casal",
@@ -167,15 +183,22 @@ export const news = [
   date: "hoje",
   views: 15680,
   image: "https://images.unsplash.com/photo-1493558103817-58b2924bce98?auto=format&fit=crop&w=1400&q=60",
-  content: [
-    "Viajar a dois é uma das melhores formas de fortalecer laços e criar memórias inesquecíveis.",
-    "Gramado é um dos destinos mais procurados por casais no Brasil, especialmente no inverno.",
-    "Paris segue como símbolo mundial do romantismo, com passeios às margens do Rio Sena e jantares à luz de velas.",
-    "Fernando de Noronha encanta com praias paradisíacas e pôr do sol inesquecível.",
-    "Hotéis boutique e experiências personalizadas tornam a viagem ainda mais especial.",
-    "Em 2026, o turismo romântico cresce com pacotes exclusivos para casais.",
-    "Escolher o destino ideal depende do estilo do casal: praia, frio, aventura ou luxo."
-  ]
+ content: [
+"Viajar a dois é uma das experiências mais marcantes para um casal.",
+"Destinos românticos oferecem ambientes que fortalecem conexão emocional e criam memórias inesquecíveis.",
+"Gramado continua sendo referência no Brasil para viagens românticas, principalmente durante o inverno.",
+"O clima mais frio favorece experiências aconchegantes e gastronomia sofisticada.",
+"Paris permanece como símbolo mundial do romantismo, com passeios às margens do Rio Sena e jantares intimistas.",
+"Fernando de Noronha encanta com praias paradisíacas e cenários naturais únicos.",
+"Hotéis boutique e resorts exclusivos oferecem experiências personalizadas para casais.",
+"O turismo romântico em 2026 cresce com pacotes personalizados e experiências privativas.",
+"Experiências gastronômicas, vinícolas e spas elevam o nível da viagem.",
+"O planejamento ideal considera perfil do casal e estilo desejado: aventura, tranquilidade ou luxo.",
+"Redes sociais impulsionam a busca por destinos visualmente marcantes.",
+"Mais do que o destino, o importante é a experiência compartilhada.",
+"Momentos simples, como assistir ao pôr do sol juntos, tornam-se inesquecíveis.",
+"Em 2026, o turismo romântico alia tecnologia, conforto e experiências únicas."
+]
 },
 {
   slug: "viagem-internacional-dicas-para-primeira-vez",
@@ -185,15 +208,22 @@ export const news = [
   date: "hoje",
   views: 21340,
   image: "https://images.unsplash.com/photo-1502920917128-1aa500764b54?auto=format&fit=crop&w=1400&q=60",
-  content: [
-    "Fazer a primeira viagem internacional é emocionante, mas exige planejamento.",
-    "O primeiro passo é verificar passaporte e visto, se necessário.",
-    "Contratar seguro viagem é fundamental para evitar problemas inesperados.",
-    "Pesquise sobre a cultura local para evitar situações constrangedoras.",
-    "Organize seus documentos em formato digital e físico.",
-    "Chegue ao aeroporto com antecedência para evitar imprevistos.",
-    "Com planejamento adequado, sua primeira viagem internacional será inesquecível."
-  ]
+ content: [
+"Fazer a primeira viagem internacional é um marco importante na vida de qualquer pessoa.",
+"Planejamento antecipado é fundamental para evitar imprevistos e garantir uma experiência positiva.",
+"O primeiro passo é verificar passaporte e possíveis exigências de visto.",
+"Contratar seguro viagem é essencial para cobrir despesas médicas e situações inesperadas.",
+"Pesquisar sobre a cultura local evita situações desconfortáveis e melhora integração.",
+"Organizar documentos físicos e digitais facilita deslocamentos.",
+"Chegar ao aeroporto com antecedência reduz estresse e imprevistos.",
+"O controle financeiro durante a viagem deve considerar câmbio e taxas internacionais.",
+"Aplicativos de tradução e mapas ajudam na comunicação e mobilidade.",
+"Conhecer regras de bagagem evita custos extras.",
+"É importante acompanhar orientações sanitárias e de segurança do destino escolhido.",
+"A experiência internacional amplia visão cultural e promove crescimento pessoal.",
+"A primeira viagem internacional exige organização, mas oferece aprendizado inesquecível.",
+"Com planejamento adequado, a experiência será tranquila e enriquecedora."
+]
 },
 {
   slug: "futebol-brasileiro-temporada-2026",
@@ -203,16 +233,22 @@ export const news = [
   date: "hoje",
   views: 28450,
   image: "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?auto=format&fit=crop&w=1400&q=60",
-  content: [
-    "O futebol brasileiro segue sendo uma das maiores potências do mundo em 2026.",
-    "Os clubes estão investindo cada vez mais em categorias de base, revelando jovens talentos que rapidamente ganham destaque internacional.",
-    "A modernização dos estádios e a profissionalização da gestão esportiva aumentaram o nível de competitividade.",
-    "O Brasileirão continua sendo uma das ligas mais equilibradas e emocionantes do planeta.",
-    "Além disso, o uso de tecnologia, como análise de desempenho e inteligência artificial, está transformando a forma como os clubes treinam e contratam jogadores.",
-    "Torcedores acompanham cada vez mais pelo digital, com transmissões online e conteúdos exclusivos nas redes sociais.",
-    "O futuro do futebol brasileiro aponta para crescimento financeiro e maior protagonismo global."
-  ]
-
+  ccontent: [
+"O futebol brasileiro em 2026 vive um novo momento de modernização e fortalecimento estrutural.",
+"Os clubes investem cada vez mais em categorias de base, revelando talentos que rapidamente ganham destaque nacional e internacional.",
+"A profissionalização da gestão esportiva trouxe maior organização financeira e contratos mais estratégicos.",
+"A modernização dos estádios elevou a experiência do torcedor, tanto presencial quanto digital.",
+"O Brasileirão segue como uma das ligas mais equilibradas do mundo, com disputa intensa até as rodadas finais.",
+"O uso de tecnologia, como análise de desempenho e estatísticas avançadas, transformou a preparação física e tática.",
+"Comissões técnicas utilizam dados detalhados para identificar padrões e corrigir falhas.",
+"O investimento em formação de atletas inclui suporte psicológico e nutricional.",
+"A presença digital dos clubes fortalece o relacionamento com torcedores.",
+"Transmissões por streaming ampliaram o alcance global do campeonato.",
+"Patrocinadores internacionais voltam a investir no futebol brasileiro.",
+"A exportação de jogadores para grandes ligas europeias mantém o Brasil como celeiro de talentos.",
+"O cenário aponta crescimento financeiro sustentável.",
+"Em 2026, o futebol brasileiro combina tradição histórica com inovação tecnológica."
+]
 },
 {
   slug: "nba-temporada-2026-destaques",
@@ -223,14 +259,21 @@ export const news = [
   views: 19870,
   image: "https://images.unsplash.com/photo-1504457047772-27faf1c00561?auto=format&fit=crop&w=1400&q=60",
   content: [
-    "A temporada 2026 da NBA está marcada por jogos intensos e atuações históricas.",
-    "Novos talentos dividem espaço com estrelas consagradas, elevando o nível da competição.",
-    "Times que investiram pesado em elenco e tecnologia de treinamento colhem resultados positivos.",
-    "O basquete moderno se tornou mais rápido, dinâmico e focado em arremessos de três pontos.",
-    "A presença global da NBA cresce a cada ano, com milhões de fãs ao redor do mundo.",
-    "As finais prometem equilíbrio e emoção até o último segundo.",
-    "Especialistas apontam esta como uma das temporadas mais competitivas da última década."
-  ]
+"A temporada 2026 da NBA é considerada uma das mais competitivas da última década.",
+"Novos talentos dividem espaço com estrelas consagradas, elevando o nível técnico da liga.",
+"A velocidade do jogo aumentou, com foco em arremessos de três pontos e transições rápidas.",
+"Equipes investem fortemente em tecnologia de treinamento e análise estatística.",
+"Jogadores utilizam sensores e dados para melhorar desempenho físico.",
+"A presença global da NBA cresce com maior participação internacional.",
+"O Brasil acompanha a liga com audiência crescente através de plataformas digitais.",
+"Os playoffs prometem confrontos equilibrados até os minutos finais.",
+"A profissionalização da preparação física reduz lesões e aumenta longevidade dos atletas.",
+"Patrocinadores globais fortalecem o crescimento financeiro da liga.",
+"A tecnologia impacta inclusive decisões de arbitragem com revisões instantâneas.",
+"O espetáculo se expande além das quadras, com forte presença nas redes sociais.",
+"A NBA em 2026 é sinônimo de entretenimento esportivo global.",
+"O basquete se consolida como fenômeno mundial impulsionado por inovação e talento."
+]
 },
 {
   slug: "esports-crescimento-global-2026",
@@ -241,14 +284,22 @@ export const news = [
   views: 22310,
   image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1400&q=60",
   content: [
-    "Os eSports atingiram um novo patamar em 2026, com audiências comparáveis a grandes eventos esportivos tradicionais.",
-    "Torneios internacionais oferecem premiações milionárias e atraem patrocinadores globais.",
-    "Jogadores profissionais são tratados como atletas de alto rendimento, com equipes técnicas e preparação especializada.",
-    "O Brasil se destaca como um dos principais mercados emergentes no cenário competitivo.",
-    "Plataformas de streaming impulsionam o alcance dos campeonatos para milhões de espectadores.",
-    "A profissionalização do setor trouxe mais investimento e oportunidades de carreira.",
-    "Os esportes eletrônicos não são mais tendência — são uma realidade consolidada no mercado esportivo."
-  ]
+"Os eSports alcançaram em 2026 um patamar de profissionalização comparável aos esportes tradicionais.",
+"Torneios internacionais oferecem premiações milionárias e audiência global.",
+"O Brasil se destaca como um dos principais mercados emergentes.",
+"Equipes profissionais contam com estrutura técnica, psicólogos e treinadores especializados.",
+"Plataformas de streaming ampliam o alcance dos campeonatos.",
+"A audiência jovem impulsiona o crescimento da indústria.",
+"Empresas multinacionais investem pesado em patrocínio.",
+"Jogadores profissionais treinam de forma estruturada e estratégica.",
+"A indústria de jogos movimenta bilhões anualmente.",
+"Universidades começam a oferecer cursos focados em gestão de eSports.",
+"A profissionalização reduz preconceitos históricos contra jogos eletrônicos.",
+"A tecnologia torna as competições mais imersivas e interativas.",
+"eSports não são mais tendência: são realidade consolidada.",
+"2026 marca uma fase de maturidade do setor."
+]
+   
 },
 {
   slug: "economia-brasileira-2026-perspectivas-crescimento",
@@ -259,14 +310,21 @@ export const news = [
   views: 17640,
   image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1400&q=60",
   content: [
-    "A economia brasileira em 2026 apresenta sinais de recuperação após períodos de instabilidade global.",
-    "O crescimento do PIB vem sendo impulsionado pelo agronegócio, tecnologia e setor de energia renovável.",
-    "O mercado de trabalho mostra melhora gradual, com aumento na geração de empregos formais.",
-    "Investimentos estrangeiros voltaram a crescer, principalmente em infraestrutura e inovação.",
-    "A inflação segue sob controle, mas ainda exige atenção das autoridades econômicas.",
-    "Especialistas apontam que a digitalização das empresas será fator determinante para manter o crescimento sustentável.",
-    "Apesar dos desafios fiscais, o Brasil mantém potencial competitivo entre as maiores economias emergentes."
-  ]
+"A economia brasileira em 2026 apresenta um cenário de transição estratégica, combinando recuperação gradual com novas oportunidades de crescimento sustentável.",
+"Após períodos de instabilidade global e desafios fiscais internos, o Brasil começa a demonstrar sinais mais consistentes de organização econômica e fortalecimento institucional.",
+"O Produto Interno Bruto (PIB) mantém trajetória positiva impulsionada principalmente pelos setores de agronegócio, tecnologia, energia renovável e serviços digitais.",
+"O agronegócio continua sendo um dos pilares da economia nacional. A modernização tecnológica no campo aumentou produtividade, competitividade internacional e eficiência logística.",
+"A digitalização empresarial tem papel fundamental nesse processo. Pequenas e médias empresas passaram a utilizar soluções digitais para reduzir custos e ampliar alcance de mercado.",
+"O setor de tecnologia, especialmente startups, atrai investimentos estrangeiros relevantes, colocando o Brasil no radar global de inovação.",
+"Os investimentos em infraestrutura também ganham destaque. Projetos voltados para logística, transporte e energia aumentam a competitividade nacional.",
+"A inflação, embora controlada, ainda exige atenção das autoridades monetárias. A política de juros segue equilibrando crescimento econômico e estabilidade de preços.",
+"O mercado de trabalho apresenta melhora gradual, com crescimento no emprego formal e aumento do empreendedorismo digital.",
+"A educação financeira da população cresce, ampliando o acesso a investimentos e fortalecendo o planejamento de longo prazo.",
+"A sustentabilidade torna-se elemento estratégico, com expansão das energias renováveis e projetos ambientais.",
+"A economia brasileira em 2026 não está isenta de desafios, mas demonstra resiliência e capacidade de adaptação.",
+"O futuro dependerá da continuidade de reformas estruturais, investimentos em inovação e responsabilidade fiscal.",
+"Com equilíbrio, inovação e estratégia, o Brasil mantém potencial para consolidar-se como uma das principais economias emergentes do mundo."
+]
 },
 {
   slug: "investimentos-inteligentes-para-2026",
@@ -277,14 +335,19 @@ export const news = [
   views: 21380,
   image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1400&q=60",
   content: [
-    "Com a economia mais estável, 2026 traz novas oportunidades para investidores iniciantes e experientes.",
-    "A renda fixa continua sendo alternativa segura para quem busca previsibilidade.",
-    "A bolsa de valores oferece potencial de valorização no longo prazo, especialmente em setores como tecnologia e energia limpa.",
-    "Fundos imobiliários seguem atraindo investidores interessados em renda passiva.",
-    "Diversificação é a palavra-chave para reduzir riscos e aumentar as chances de retorno positivo.",
-    "Antes de investir, é importante definir objetivos financeiros e perfil de risco.",
-    "A educação financeira se tornou essencial para quem deseja construir patrimônio sustentável."
-  ]
+"Em 2026, o cenário de investimentos no Brasil apresenta novas oportunidades para quem deseja construir patrimônio com segurança e estratégia.",
+"A estabilidade econômica relativa abre espaço para decisões mais conscientes por parte de investidores iniciantes e experientes.",
+"A renda fixa permanece como alternativa segura, especialmente em contextos de controle inflacionário e juros competitivos.",
+"Títulos públicos e CDBs continuam sendo opções populares para quem busca previsibilidade e menor volatilidade.",
+"No mercado de renda variável, a bolsa de valores mostra potencial de crescimento principalmente nos setores de tecnologia, energia limpa e agronegócio.",
+"Fundos imobiliários seguem atraindo investidores interessados em renda passiva mensal.",
+"A diversificação é essencial para reduzir riscos. Distribuir investimentos entre diferentes classes de ativos protege o patrimônio contra oscilações inesperadas.",
+"A educação financeira tornou-se mais acessível graças a plataformas digitais e conteúdos especializados.",
+"Investidores devem sempre considerar perfil de risco, objetivos financeiros e horizonte de tempo antes de aplicar recursos.",
+"Planejamento de longo prazo tende a gerar resultados mais consistentes do que decisões impulsivas baseadas em emoções de mercado.",
+"A tecnologia facilita o acompanhamento da carteira em tempo real, permitindo ajustes estratégicos rápidos.",
+"Em 2026, investir não é apenas uma opção — é uma necessidade para preservar poder de compra e ampliar oportunidades futuras."
+]
 },
 {
   slug: "empreendedorismo-digital-economia-2026",
@@ -294,15 +357,20 @@ export const news = [
   date: "hoje",
   views: 18950,
   image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?auto=format&fit=crop&w=1400&q=60",
-  content: [
-    "O empreendedorismo digital se consolida como um dos principais motores da economia em 2026.",
-    "Pequenos negócios online ganham espaço através do e-commerce, marketing digital e produção de conteúdo.",
-    "Plataformas digitais permitem que empreendedores alcancem clientes em todo o mundo.",
-    "O trabalho remoto ampliou as possibilidades de geração de renda e reduziu barreiras geográficas.",
-    "Startups focadas em tecnologia financeira e inteligência artificial recebem grandes investimentos.",
-    "A economia criativa cresce com influenciadores, infoprodutores e desenvolvedores independentes.",
-    "Quem investe em capacitação digital aumenta suas chances de sucesso no novo cenário econômico."
-  ]
+ content: [
+"O empreendedorismo digital consolida-se em 2026 como um dos principais motores da nova economia global.",
+"A internet deixou de ser apenas ferramenta de comunicação e tornou-se ambiente completo de negócios.",
+"Pequenos empreendedores conseguem hoje atingir públicos nacionais e internacionais através de plataformas digitais.",
+"O crescimento do e-commerce ampliou oportunidades para marcas independentes.",
+"O marketing digital tornou-se essencial para alcançar visibilidade e gerar vendas.",
+"Redes sociais funcionam como vitrines estratégicas para produtos e serviços.",
+"A economia criativa cresce com influenciadores, criadores de conteúdo e infoprodutores.",
+"Ferramentas de automação e inteligência artificial ajudam pequenos negócios a operar com eficiência comparável a grandes empresas.",
+"O trabalho remoto expandiu possibilidades de renda e reduziu barreiras geográficas.",
+"Startups brasileiras focadas em tecnologia financeira e IA recebem investimentos expressivos.",
+"O sucesso no empreendedorismo digital exige planejamento, capacitação constante e adaptação às mudanças tecnológicas.",
+"Em 2026, empreender digitalmente significa inovação, escalabilidade e independência financeira."
+]
 },
 {
   slug: "habitos-saudaveis-para-2026-mais-energia-e-longevidade",
@@ -321,5 +389,244 @@ export const news = [
     "Cuidar da saúde mental também é essencial, incluindo momentos de lazer, descanso e controle do estresse.",
     "Pequenas mudanças na rotina podem gerar grandes impactos na qualidade de vida a longo prazo."
   ]
-}
-]
+},
+
+{
+  slug: "cinema-brasileiro-2026-renovacao",
+  title: "Cinema Brasileiro em 2026: Renovação Criativa e Novos Talentos",
+  excerpt: "O cinema nacional vive um momento de transformação com novas produções e reconhecimento internacional.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 14200,
+  image: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "O cinema brasileiro passa por fase de renovação em 2026.",
+    "Novos diretores e roteiristas trazem perspectivas contemporâneas.",
+    "Plataformas digitais ampliam alcance das produções nacionais.",
+    "Temáticas sociais continuam sendo destaque.",
+    "Coproduções internacionais fortalecem visibilidade global.",
+    "Festivais internacionais reconhecem obras brasileiras.",
+    "A diversidade cultural aparece nas telas com mais representatividade.",
+    "Incentivos públicos e privados estimulam novas produções.",
+    "O público nacional volta a prestigiar produções locais.",
+    "O cinema brasileiro consolida-se como setor criativo relevante."
+  ]
+},
+{
+  slug: "streaming-2026-novas-tendencias",
+  title: "Streaming em 2026: Como as Plataformas Estão Transformando o Entretenimento",
+  excerpt: "As plataformas de streaming evoluíram e mudaram a forma como consumimos filmes, séries e conteúdo digital.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 18700,
+  image: "https://images.unsplash.com/photo-1585647347483-22b66260dfff?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "O mercado de streaming em 2026 está mais competitivo do que nunca.",
+    "Plataformas disputam assinantes investindo pesado em produções exclusivas.",
+    "Séries originais tornaram-se principal diferencial estratégico.",
+    "A personalização por inteligência artificial oferece recomendações cada vez mais precisas.",
+    "O modelo tradicional de TV perdeu espaço para o consumo sob demanda.",
+    "O público jovem prioriza mobilidade e acesso multiplataforma.",
+    "Empresas apostam em transmissões ao vivo e eventos exclusivos.",
+    "Planos com anúncios tornaram-se alternativa mais acessível.",
+    "A produção internacional cresce, ampliando diversidade cultural.",
+    "O streaming consolida-se como principal forma de entretenimento digital."
+  ]
+}, 
+{
+  slug: "series-mais-aguardadas-2026",
+  title: "As Séries Mais Aguardadas de 2026",
+  excerpt: "Produções internacionais e nacionais prometem dominar as plataformas ao longo do ano.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 21340,
+  image: "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "O ano de 2026 promete grandes estreias no mundo das séries.",
+    "Produções de ficção científica lideram expectativas.",
+    "Séries baseadas em livros ganham adaptações modernas.",
+    "O suspense psicológico continua em alta.",
+    "Narrativas com diversidade cultural crescem.",
+    "Produções brasileiras ampliam espaço nas plataformas.",
+    "O investimento em roteiros complexos aumenta qualidade geral.",
+    "As temporadas são lançadas em modelos híbridos.",
+    "O público acompanha estreias com grande engajamento digital.",
+    "As séries consolidam-se como principal formato de entretenimento narrativo."
+  ]
+},
+{
+  slug: "musica-brasileira-era-digital-2026",
+  title: "Música Brasileira na Era Digital em 2026",
+  excerpt: "O mercado musical brasileiro se adapta às plataformas digitais e ao consumo por streaming.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 15890,
+  image: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "A música brasileira em 2026 vive transformação digital intensa.",
+    "Artistas independentes conquistam espaço através de plataformas online.",
+    "O streaming domina o consumo musical.",
+    "Redes sociais tornam-se ferramenta essencial de divulgação.",
+    "Shows híbridos combinam presencial e transmissão ao vivo.",
+    "Novos gêneros surgem da mistura cultural brasileira.",
+    "Produtores utilizam tecnologia para criar sons inovadores.",
+    "Colaborações internacionais ampliam alcance global.",
+    "O público participa ativamente na promoção de artistas.",
+    "O mercado musical torna-se mais democrático e dinâmico."
+  ]
+},
+{
+  slug: "cultura-pop-tendencias-2026",
+  title: "Cultura Pop em 2026: As Principais Tendências do Ano",
+  excerpt: "Filmes, games, redes sociais e influenciadores moldam o cenário cultural atual.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 19600,
+  image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "A cultura pop em 2026 é fortemente influenciada pela tecnologia.",
+    "Filmes e séries dialogam diretamente com redes sociais.",
+    "Games ultrapassam limites tradicionais e tornam-se fenômeno global.",
+    "Influenciadores moldam tendências culturais.",
+    "Eventos geek atraem milhões de fãs.",
+    "O consumo de conteúdo é cada vez mais digital.",
+    "A nostalgia retorna com força em reboots e remakes.",
+    "O público valoriza autenticidade e representatividade.",
+    "Marcas integram cultura pop às estratégias de marketing.",
+    "A cultura pop continua sendo reflexo direto da sociedade contemporânea."
+  ]
+},
+{
+  slug: "reality-shows-em-alta-2026",
+  title: "Reality Shows em Alta em 2026: O Novo Fenômeno do Entretenimento",
+  excerpt: "Programas de realidade continuam dominando audiência e redes sociais.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 11200,
+  image: "https://images.unsplash.com/photo-1600607687644-c7f34c3a6bb4?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Reality shows seguem como um dos formatos mais populares de entretenimento.",
+    "A interação direta do público com participantes aumenta o engajamento.",
+    "Redes sociais amplificam debates e opiniões sobre os programas.",
+    "Plataformas digitais investem em formatos inovadores.",
+    "O modelo híbrido entre TV e streaming fortalece audiência.",
+    "A edição estratégica influencia narrativa e repercussão.",
+    "Reality shows também geram oportunidades comerciais e publicitárias.",
+    "Em 2026, o formato continua em expansão global."
+  ]
+},
+{
+  slug: "games-mais-esperados-2026",
+  title: "Os Games Mais Esperados de 2026",
+  excerpt: "Grandes lançamentos prometem revolucionar a indústria dos videogames.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 14500,
+  image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "A indústria dos games segue batendo recordes de faturamento.",
+    "Jogos com realidade aumentada ganham espaço.",
+    "Gráficos ultrarrealistas elevam experiência do jogador.",
+    "O multiplayer online continua crescendo.",
+    "Eventos internacionais de lançamento mobilizam milhões.",
+    "Games independentes ganham visibilidade global.",
+    "O Brasil se consolida como grande mercado consumidor.",
+    "2026 promete redefinir padrões da indústria."
+  ]
+},
+{
+  slug: "grandes-shows-internacionais-brasil-2026",
+  title: "Grandes Shows Internacionais no Brasil em 2026",
+  excerpt: "Artistas globais confirmam turnês históricas no país.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 13200,
+  image: "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "O Brasil volta a integrar grandes turnês mundiais.",
+    "Festivais internacionais ampliam atrações.",
+    "A infraestrutura de eventos melhora a experiência do público.",
+    "Ingressos digitais facilitam acesso.",
+    "O setor movimenta economia local.",
+    "Artistas destacam energia do público brasileiro.",
+    "Eventos híbridos permitem transmissão online.",
+    "2026 marca retomada forte do setor de shows."
+  ]
+},
+{
+  slug: "influenciadores-digitais-tendencias-2026",
+  title: "Influenciadores Digitais em 2026: Tendências e Mercado",
+  excerpt: "Criadores de conteúdo dominam estratégias de marketing e entretenimento.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 11800,
+  image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Influenciadores digitais se consolidam como grandes mídias.",
+    "Parcerias estratégicas fortalecem marcas pessoais.",
+    "Plataformas diversificam formatos de monetização.",
+    "Conteúdo autêntico gera maior engajamento.",
+    "Marketing de influência movimenta bilhões.",
+    "O público busca transparência e conexão real.",
+    "Novos criadores surgem diariamente.",
+    "O mercado continua em expansão acelerada."
+  ]
+},
+{
+  slug: "tv-aberta-vs-streaming-2026",
+  title: "TV Aberta vs Streaming em 2026: Quem Domina?",
+  excerpt: "O confronto entre televisão tradicional e plataformas digitais continua.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 9800,
+  image: "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "A TV aberta enfrenta competição intensa das plataformas digitais.",
+    "Streaming oferece liberdade de horário e escolha.",
+    "Televisão tradicional ainda mantém grande alcance nacional.",
+    "Publicidade adapta-se aos dois formatos.",
+    "Modelos híbridos ganham força.",
+    "Audiência fragmenta-se entre dispositivos.",
+    "O consumidor decide quando e como assistir.",
+    "O futuro aponta coexistência estratégica."
+  ]
+},
+{
+  slug: "hollywood-tendencias-2026",
+  title: "Hollywood em 2026: As Novas Tendências do Cinema Global",
+  excerpt: "Estúdios investem em franquias e inovação tecnológica.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 15000,
+  image: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Hollywood aposta em franquias consolidadas.",
+    "Tecnologia CGI eleva qualidade visual.",
+    "Produções diversificam representatividade cultural.",
+    "Streaming influencia decisões de lançamento.",
+    "Bilheterias globais mostram recuperação.",
+    "Roteiros mais complexos atraem público exigente.",
+    "Filmes independentes ganham reconhecimento.",
+    "Cinema global passa por transformação estrutural."
+  ]
+},
+{
+  slug: "podcasts-brasil-crescimento-2026",
+  title: "Podcasts no Brasil em 2026: Crescimento e Influência Cultural",
+  excerpt: "O formato de áudio sob demanda conquista cada vez mais ouvintes.",
+  category: "Entretenimento",
+  date: "hoje",
+  views: 13400,
+  image: "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=1400&q=60",
+  content: [
+    "Podcasts se consolidam como fonte de informação e entretenimento.",
+    "Produções independentes crescem em audiência.",
+    "Plataformas investem em exclusividades.",
+    "Conteúdo especializado atrai nichos específicos.",
+    "Publicidade em áudio se profissionaliza.",
+    "Criadores diversificam formatos.",
+    "O público valoriza conveniência e mobilidade.",
+    "O mercado de podcasts segue em expansão."
+  ]
+},
+];
