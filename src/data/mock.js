@@ -80,7 +80,7 @@ export const news = [
   ]
 },
  {
-  slug: "saude-habitos-simples",
+  slug: "saúde-habitos-simples",
   title: "Saúde: Hábitos Simples Que Melhoram Energia e Foco no Dia a Dia",
   excerpt: "Rotina equilibrada, sono de qualidade e alimentação estratégica: pequenos ajustes que geram grandes resultados.",
   category: "Saúde",
