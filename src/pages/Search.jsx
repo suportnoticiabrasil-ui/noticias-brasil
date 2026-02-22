@@ -22,18 +22,18 @@ export default function Search() {
         <p>Resultado para: <strong>{q || "(todas)"}</strong></p>
         <div className="mt-6 relative overflow-hidden rounded-2xl shadow-xl">
   <img
-    src="https://images.unsplash.com/photo-1621416894569-0f39ed31d247?auto=format&fit=crop&w=1400&q=80"
+    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Pix_logo_2020.svg"
     alt="Novas regras do Pix"
-    className="w-full h-[350px] object-cover"
+    className="w-full h-[350px] object-cover bg-green-500 p-10"
   />
 
-  <div className="absolute inset-0 bg-gradient-to-r from-black/70 to-black/30 flex items-center">
+  <div className="absolute inset-0 bg-gradient-to-r from-green-900/80 to-green-500/50 flex items-center">
     <div className="p-8 text-white">
       <h2 className="text-3xl font-bold">
         🚨 Novas Regras do PIX 2025
       </h2>
       <p className="mt-2 text-lg">
-        Veja o que mudou e como isso afeta suas transferências.
+        Veja o que mudou e como isso impacta seus pagamentos.
       </p>
     </div>
   </div>
