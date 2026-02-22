@@ -22,7 +22,7 @@ export default function Search() {
         <p>Resultado para: <strong>{q || "(todas)"}</strong></p>
         <div className="mt-6 relative overflow-hidden rounded-2xl shadow-xl">
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Pix_logo_2020.svg"
+    src="/pix-banner.jpg"
     alt="Novas regras do Pix"
     className="w-full h-[350px] object-cover bg-green-500 p-10"
   />
