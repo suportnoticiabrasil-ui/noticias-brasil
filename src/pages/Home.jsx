@@ -16,8 +16,8 @@ export default function Home() {
               <div>
                 <h1>Notícias Brasil — rápido, claro e responsivo</h1>
                 <p>
-                  Modelo pronto para conteúdo original, SEO básico e espaços de anúncios
-                  (após aprovação do AdSense).
+                  Modelo pronto para conteúdo original, SEO básico e espaços de IA
+                  (Agradeço volte sempre ).
                 </p>
                 <div className="hero-cta">
                   <button className="btn" onClick={() => navigate("/pesquisa?q=")}>

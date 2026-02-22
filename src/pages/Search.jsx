@@ -21,8 +21,6 @@ export default function Search() {
         <h1>Pesquisa</h1>
         <p>Resultado para: <strong>{q || "(todas)"}</strong></p>
 
-        <AdSlot label="Topo da pesquisa — 728x90" height={90} />
-
         {results.length === 0 ? (
           <p>Nenhum resultado encontrado.</p>
         ) : (
